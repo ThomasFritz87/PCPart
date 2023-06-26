@@ -2,6 +2,7 @@
 Shop website for PC components.
 
 Implementation in React via Vite.<br>
+Need install react-router-dom.<br>
 <br>
 Power Point Presentation as PDF in folder ./src/images/PCParts.pdf<br>
 <br>
