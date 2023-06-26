@@ -1,0 +1,875 @@
+[
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "Asus",
+		"Produkt": "ASUS ROG MAXIMUS Z690 HERO",
+		"Preis": "620,00",
+		"link": "https://www.alternate.de/ASUS/ROG-MAXIMUS-Z690-HERO-Mainboard/html/product/1788913",
+		"Bild": "https://www.alternate.de/p/o/3/1/ASUS_ROG_MAXIMUS_Z690_HERO__Mainboard@@1788913.jpg",
+		"Beschreibung": "Das ASUS ROG MAXIMUS Z690 HERO Mainboard basiert auf dem Intel®-Z690-Chipsatz und unterstützt Intel®-Prozessoren für den Sockel 1700 der 12ten Generation. Es verfügt über vier DDR5-DIMM-Slots im Dual-Channel-Betrieb für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des ASUS ROG MAXIMUS Z690 HERO gehören zwei PCIe-5.0-x16-Slot und ein PCIe-4.0-x16-Slot. Außerdem verfügt das ASUS ROG MAXIMUS Z690 HERO über 8-Kanal-Sound, eine 2,5 Gigabit-LAN-Schnittstelle, sechs SATA3-Anschlüsse, Thunderbolt 4 Typ-C Ports, bis zu fünf M.2-Anschlüsse, WiFi 6E, Bluetooth 5.2 und eine Reihe an USB Schnittstellen."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "G.Skill",
+		"Produkt": "G.Skill DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, F5-6000J3038F16GX2-TZ5NR, Trident Z NEO RGB, EXPO)",
+		"Preis": "141,90",
+		"Link": "https://www.alternate.de/html/product/1868812",
+		"Bild": "https://www.alternate.de/p/o/2/1/G_Skill_DIMM_32_GB_DDR5_6000__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1868812_1.jpg",
+		"Beschreibung": "Das G.Skill F5-6000J3038F16GX2-TZ5NR ist ein Kit aus zwei 16-GB-DDR5-6000-Speichermodulen (PC5-48000) aus der Trident Z NEO RGB Serie. Die Gesamtkapazität beträgt 32 GB. Die Module unterstützen ein Timing von 30-38-38-96 bei 6000 MHz und benötigen 1,35 V Spannung. Ein Merkmal der Trident Z NEO RGB Serie ist die individuell einstellbare RGB LED-Beleuchtung. Das AMD Memory Profile EXPO wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 32 GB DDR4-3600 Kit, Arbeitsspeicher (schwarz, CMH32GX4M2D3600C18, Vengeance RGB PRO SL, XMP)",
+		"Preis": "87,90",
+		"Link": "https://www.alternate.de/Corsair/DIMM-32-GB-DDR4-3600-Kit-Arbeitsspeicher/html/product/1713292",
+		"Bild": "https://www.alternate.de/p/o/2/9/Corsair_DIMM_32_GB_DDR4_3600_Kit__Arbeitsspeicher@@1713292.jpg",
+		"Beschreibung": "Das Corsair CMH32GX4M2D3600C18 ist ein Kit aus zwei 16-GB-DDR4-3600-Speichermodulen (PC4-28800) aus der Vengeance RGB PRO Serie. Die Gesamtkapazität beträgt 32 GB. Die 288-Pin Module unterstützen eine Latenz von 18-22-22-42 bei 3600 MHz und benötigen 1,35 Volt Spannung. Die Vengeance RGB PRO SL Serie verfügt über maßgeschneiderte Hochleistungs-Kühlkörper mit einstellbarer LED-Beleuchtung."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "G.Skill",
+		"Produkt": "G.Skill DIMM 32 GB DDR4-3200 Kit, Arbeitsspeicher (schwarz, F4-3200C16D-32GIS, Aegis, XMP)",
+		"Preis": "60,90",
+		"Link": "https://www.alternate.de/G-Skill/DIMM-32-GB-DDR4-3200-Kit-Arbeitsspeicher/html/product/1584069",
+		"Bild": "https://www.alternate.de/p/o/i/G_Skill_DIMM_32_GB_DDR4_3200_Kit__Arbeitsspeicher@@ifiggu2q.jpg",
+		"Beschreibung": "Das G.Skill F4-3200C16D-32GIS ist ein Kit aus zwei 16-GB-DDR4-3200-Speichermodulen (PC4-25600) der Aegis-Serie von G.Skill. Die Gesamtkapazität beträgt 32 GB. Die Module sind auf Latenzen von 16-18-18-38 bei 3200 MHz programmiert und benötigen eine Spannung von 1,35 Volt. Intels XMP 2.0 wird unterstützt"
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "G.Skill",
+		"Produkt": "G.Skill DIMM 16 GB DDR4-3200 Kit, Arbeitsspeicher (schwarz, F4-3200C16D-16GIS, Aegis, XMP)",
+		"Preis": "33,49",
+		"Link": "https://www.alternate.de/G-Skill/DIMM-16-GB-DDR4-3200-Kit-Arbeitsspeicher/html/product/1584014",
+		"Bild": "https://www.alternate.de/p/o/i/G_Skill_DIMM_16_GB_DDR4_3200_Kit__Arbeitsspeicher@@ieiggu2l.jpg",
+		"Beschreibung": "Das G.Skill F4-3200C16D-16GIS ist ein Kit aus zwei 8-GB-DDR4-3200-Speichermodulen (PC4-25600) der Aegis-Serie von G.Skill. Die Gesamtkapazität beträgt 16 GB. Die Module sind auf Latenzen von 16-18-18-38 bei 3200 MHz programmiert und benötigen eine Spannung von 1,35 Volt. Intels XMP 2.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 32 GB DDR5-5600 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, CMK32GX5M2B5600C36, Vengeance, XMP)",
+		"Preis": "99,99",
+		"Link": "https://www.alternate.de/Corsair/DIMM-32-GB-DDR5-5600-(2x-16-GB)-Dual-Kit-Arbeitsspeicher/html/product/1806738",
+		"Bild": "https://www.alternate.de/p/o/8/3/Corsair_DIMM_32_GB_DDR5_5600__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1806738_30.jpg",
+		"Beschreibung": "Das Corsair CMK32GX5M2B5600C36 ist ein Kit aus zwei 16-GB-DDR5-5600-Speichermodulen (PC5-44800) aus der Vengeance Serie. Die Gesamtkapazität beträgt 32 GB. Die Module unterstützen ein Timing von 36-36-36-76 bei 5600 MHz und benötigen 1,25 V Spannung. Die Version 3.0 von Intels Memory Profile XMP wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 32 GB DDR4-3200 Kit, Arbeitsspeicher (schwarz, CMK32GX4M2E3200C16, Vengeance LPX, XMP)",
+		"Preis": "66,99",
+		"Link": "https://www.alternate.de/Corsair/DIMM-32-GB-DDR4-3200-Kit-Arbeitsspeicher/html/product/1548588",
+		"Bild": "https://www.alternate.de/p/o/i/Corsair_DIMM_32_GB_DDR4_3200_Kit__Arbeitsspeicher@@ifig5u20.jpg",
+		"Beschreibung": "Das Corsair CMK32GX4M2E3200C16 ist ein Kit aus zwei 16-GB-DDR4-3200-Speichermodulen (PC4-25600) aus der Vengeance LPX Serie. Die Gesamtkapazität beträgt 32 GB. Die Module unterstützen ein Timing von 16-20-20-38 bei 3200 MHz und benötigen 1,35 V Spannung. Die Vengeance LPX Serie wurde speziell für eine anspruchsvolle Nutzung mit Blick auf das Übertakten entwickelt und nutzt maßgeschneiderte Hochleistungs-Kühlkörper aus Aluminium mit einer ausgezeichneten Wärmeableitung für Stabilität und Verlässlichkeit. Intels XMP Version 2.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Team Group",
+		"Produkt": "Team Group DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, FF3D532G6000HC30DC01, Delta RGB, XMP)",
+		"Preis": "109,90",
+		"Link": "https://www.alternate.de/Team-Group/DIMM-32-GB-DDR5-6000-(2x-16-GB)-Dual-Kit-Arbeitsspeicher/html/product/1853819",
+		"Bild": "https://www.alternate.de/p/o/9/1/Team_Group_DIMM_32_GB_DDR5_6000__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1853819.jpg",
+		"Beschreibung": "Das Team Group FF3D532G6000HC30DC01 ist ein Kit aus zwei 16-GB-DDR5-6000-Speichermodulen (PC5-48000) der Delta RGB-Serie. Die Gesamtkapazität beträgt 32 GB. Die Module unterstützen Timings von 30-36-36-76 bei 6000 MHz und benötigen 1,2 V Spannung. Die Kühlkörper der Delta-RGB-Serie bietet die aktuellste RGB Technologie. XMP 3.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Kingston",
+		"Produkt": "Kingston FURY DIMM 32 GB DDR5-4800 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, KF548C38BBK2-32, FURY Beast, XMP)",
+		"Preis": "104,90",
+		"Link": "https://www.alternate.de/Kingston-FURY/DIMM-32-GB-DDR5-4800-(2x-16-GB)-Dual-Kit-Arbeitsspeicher/html/product/1794601",
+		"Bild": "https://www.alternate.de/p/o/1/0/Kingston_FURY_DIMM_32_GB_DDR5_4800__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1794601.jpg",
+		"Beschreibung": "Das Kingston KF548C38BBK2-32ist ein Kit aus zwei 16-GB-DDR5-4800-Speichermodulen (PC5-38400) aus der Fury Beast Serie. Die Gesamtkapazität beträgt 32 GB. Die 288-Pin Module unterstützen eine Latenz von 38-38-38 bei 4800 MHz und benötigen 1,1 Volt Spannung. Intels XMP Version 3.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 64 GB DDR5-5600 (2x 32 GB) Dual-Kit, Arbeitsspeicher (schwarz, CMK64GX5M2B5600C40, Vengeance, XMP)",
+		"Preis": "189,90",
+		"Link": "https://www.alternate.de/Corsair/DIMM-64-GB-DDR5-5600-(2x-32-GB)-Dual-Kit-Arbeitsspeicher/html/product/1835301",
+		"Bild": "https://www.alternate.de/p/o/1/0/Corsair_DIMM_64_GB_DDR5_5600__2x_32_GB__Dual_Kit__Arbeitsspeicher@@1835301.jpg",
+		"Beschreibung": "Das Corsair CMK64GX5M2B5600C40 ist ein Kit aus zwei 32-GB-DDR5-5600-Speichermodulen (PC5-44800) aus der Vengeance Serie. Die Gesamtkapazität beträgt 64 GB. Die 288-Pin-DIMMs unterstützen ein Timing von 40-40-40-77 bei 5600 MHz und benötigen eine Spannung von 1,25 Volt. Sie verfügen über PMIC und unterstützen Intel® XMP 3.0."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 32 GB DDR4-3600 Kit, für AMD Optimiert , Arbeitsspeicher (schwarz, CMK32GX4M2Z3600C18, Vengeance LPX, XMP)",
+		"Preis": "69,99",
+		"Link": "https://www.alternate.de/Corsair/DIMM-32-GB-DDR4-3600-Kit-f%C3%BCr-AMD-Optimiert-Arbeitsspeicher/html/product/1600190",
+		"Bild": "https://www.alternate.de/p/o/i/Corsair_DIMM_32_GB_DDR4_3600_Kit__f_r_AMD_Optimiert___Arbeitsspeicher@@ifig5z28.jpg",
+		"Beschreibung": "Das Corsair CMK32GX4M2Z3600C18 ist ein Kit aus zwei 16-GB-DDR4-3600-Speichermodulen (PC4-28800) aus der Vengeance LPX Serie. Die Gesamtkapazität beträgt 32 GB. Die Module unterstützen ein Timing von 18-22-22-42 bei 3600 MHz und benötigen 1,35 V Spannung. Intels XMP Version 2.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Kingston",
+		"Produkt": "Kingston FURY DIMM 32 GB DDR5-5200 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, KF552C40BBK2-32, FURY Beast, XMP)",
+		"Preis": "115,90",
+		"Link": "https://www.alternate.de/Kingston-FURY/DIMM-32-GB-DDR5-5200-(2x-16-GB)-Dual-Kit-Arbeitsspeicher/html/product/1794608",
+		"Bild": "https://www.alternate.de/p/o/8/0/Kingston_FURY_DIMM_32_GB_DDR5_5200__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1794608.jpg",
+		"Beschreibung": "Das Kingston KF552C40BBK2-32 ist ein Kit aus zwei 16-GB-DDR5-5200-Speichermodulen (PC5-41600) aus der Fury Beast Serie. Die Gesamtkapazität beträgt 32 GB. Die 288-Pin Module unterstützen eine Latenz von 40-40-40 bei 5200 MHz und benötigen 1,25 Volt Spannung. Intels XMP Version 3.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 64 GB DDR5-6400 (2x 32 GB) Dual-Kit, Arbeitsspeicher (schwarz, CMH64GX5M2B6400C32, Vengeance RGB, XMP)",
+		"Preis": "259,99",
+		"Link": "https://www.alternate.de/Corsair/DIMM-64-GB-DDR5-6400-(2x-32-GB)-Dual-Kit-Arbeitsspeicher/html/product/1912611",
+		"Bild": "https://www.alternate.de/p/o/1/1/Corsair_DIMM_64_GB_DDR5_6400__2x_32_GB__Dual_Kit__Arbeitsspeicher@@1912611_1.jpg",
+		"Beschreibung": "Das Corsair CMH64GX5M2B6400C32 ist ein Kit aus 2x 32 GB DDR5-6400 (PC5-51200) Speichermodulen aus der Vengeance RGB Serie. Das 288-Pin Modul unterstützt eine Latenz von 32-40-40-84 bei 6400 MHz und benötigt 1,4 Volt Spannung. Die Vengeance RGB Serie verfügt über maßgeschneiderte Hochleistungs-Kühlkörper mit einstellbarer LED-Beleuchtung. Intels XMP Version 3.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher (schwarz, CMH32GX5M2D6000Z36K, Vengeance RGB, EXPO)",
+		"Preis": "124,99",
+		"Link": "https://www.alternate.de/Corsair/DIMM-32-GB-DDR5-6000-(2x-16-GB)-Dual-Kit-Arbeitsspeicher/html/product/1874199",
+		"Bild": "https://www.alternate.de/p/o/9/9/Corsair_DIMM_32_GB_DDR5_6000__2x_16_GB__Dual_Kit__Arbeitsspeicher@@1874199_31.jpg",
+		"Beschreibung": "Das Corsair CMH32GX5M2D6000Z36K ist ein Kit aus zwei 16-GB-DDR5-6000-Speichermodulen (PC5-48000) aus der Vengeance RGB Serie. Die Gesamtkapazität beträgt 32 GB. Die 288-Pin Module unterstützen eine Latenz von 36-36-36-76 bei 6000 MHz und benötigen 1,35 Volt Spannung. Intels XMP Version 3.0 und EXPO wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "G.Skill DIMM 256 GB DDR4-3200 Octo-Kit, Arbeitsspeicher (schwarz, F4-3200C16Q2-256GVK, Ripjaws V, XMP)",
+		"Preis": "549,00",
+		"Link": "https://www.alternate.de/G-Skill/DIMM-256-GB-DDR4-3200-Octo-Kit-Arbeitsspeicher/html/product/1651788",
+		"Bild": "https://www.alternate.de/p/o/8/8/G_Skill_DIMM_256_GB_DDR4_3200_Octo_Kit__Arbeitsspeicher@@1651788.jpg",
+		"Beschreibung": "Dieses Quad-Channel-Kit besteht aus acht 32-GB-DDR4-3200-Speichermodulen (PC4-25600) aus der Ripjaws V-Serie von G.Skill. Die Gesamtkapazität beträgt 256 GB. Die Module sind auf Latenzen von 16-18-18-38 bei 3200 MHz programmiert und benötigen 1,35 Volt. Die aktuelle Version 2.0 von Intels Memory Profile XMP wird unterstützt."
+	},
+	{
+		"Komponente": "Arbeitsspeicher",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair D432GB 3200-18 Veng. RGB PRO bk K2 COR, Arbeitsspeicher (schwarz, CMW32GX4M2C3200C18, Vengeance RGB PRO, XMP)",
+		"Preis": "103,90",
+		"Link": "https://www.alternate.de/Corsair/D432GB-3200-18-Veng-RGB-PRO-bk-K2-COR-Arbeitsspeicher/html/product/1827171",
+		"Bild": "https://www.alternate.de/p/o/1/7/Corsair_D432GB_3200_18_Veng__RGB_PRO___bk_K2_COR__Arbeitsspeicher@@1827171_1.jpg",
+		"Beschreibung": "Das Corsair CMW32GX4M2C3200C18 ist ein Kit aus zwei 16-GB-DDR4-3200-Speichermodulen (PC4-25600) aus der Vengeance RGB PRO Serie. Die Gesamtkapazität beträgt 32 GB. Die 288-Pin Module unterstützen eine Latenz von 18-19-19-39 bei 3200 MHz und benötigen 1,35 Volt Spannung. Die Vengeance RGB PRO Serie verfügt über maßgeschneiderte Hochleistungs-Kühlkörper mit einstellbarer LED-Beleuchtung. Intels XMP Version 2.0 wird unterstützt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i5-13600KF, Prozessor (Boxed-Version)",
+		"Preis": "299,00",
+		"Link": "https://www.alternate.de/Intel/Core-i5-13600KF-Prozessor/html/product/1865201",
+		"Bild": "https://www.alternate.de/p/o/1/0/Intel__Core__i5_13600KF__Prozessor@@1865201.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i7-12700K, Prozessor (Boxed-Version)",
+		"Preis": "326,00",
+		"Link": "https://www.alternate.de/Intel/Core-i7-12700K-Prozessor/html/product/1778359",
+		"Bild": "https://www.alternate.de/p/o/9/5/Intel__Core__i7_12700K__Prozessor@@1778359.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i5-12400, Prozessor (Boxed-Version)",
+		"Preis": "190,90",
+		"Link": "https://www.alternate.de/Intel/Core-i5-12400-Prozessor/html/product/1778339",
+		"Bild": "https://www.alternate.de/p/o/9/3/Intel__Core__i5_12400__Prozessor@@1778339.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i7-13700K, Prozessor (Boxed-Version)",
+		"Preis": "449,00",
+		"Link": "https://www.alternate.de/Intel/Core-i7-13700K-Prozessor/html/product/1865238",
+		"Bild": "https://www.alternate.de/p/o/8/3/Intel__Core__i7_13700K__Prozessor@@1865238.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i9-13900K, Prozessor (Boxed-Version)",
+		"Preis": "630,00",
+		"Link": "https://www.alternate.de/Intel/Core-i9-13900K-Prozessor/html/product/1865277",
+		"Bild": "https://www.alternate.de/p/o/7/7/Intel__Core__i9_13900K__Prozessor@@1865277.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i9-12900KF, Prozessor (Tray-Version)",
+		"Preis": "452,00",
+		"Link": "https://www.alternate.de/Intel/Core-i9-12900KF-Prozessor/html/product/1778366",
+		"Bild": "https://www.alternate.de/p/o/6/6/Intel__Core__i9_12900KF__Prozessor@@1778366.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i5-12400F, Prozessor (Boxed-Version)",
+		"Preis": "160,90",
+		"Link": "https://www.alternate.de/Intel/Core-i5-12400F-Prozessor/html/product/1778337",
+		"Bild": "https://www.alternate.de/p/o/7/3/Intel__Core__i5_12400F__Prozessor@@1778337.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i5-13600K, Prozessor (Boxed-Version)",
+		"Preis": "341,00",
+		"Link": "https://www.alternate.de/Intel/Core-i5-13600K-Prozessor/html/product/1865205",
+		"Bild": "https://www.alternate.de/p/o/5/0/Intel__Core__i5_13600K__Prozessor@@1865205.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i7-13700KF, Prozessor (Boxed-Version)",
+		"Preis": "431,00",
+		"Link": "https://www.alternate.de/Intel/Core-i7-13700KF-Prozessor/html/product/1865230",
+		"Bild": "https://www.alternate.de/p/o/0/3/Intel__Core__i7_13700KF__Prozessor@@1865230.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Xeon® w5-3435X, Prozessor (Boxed-Version)",
+		"Preis": "1.779,00",
+		"Link": "https://www.alternate.de/Intel/Xeon-w5-3435X-Prozessor/html/product/1901371",
+		"Bild": "https://www.alternate.de/p/o/1/7/Intel__Xeon__w5_3435X__Prozessor@@1901371.jpg",
+		"Beschreibung": "Der für Server und Workstations konzipierte Intel® Xeon® w5-3435X Prozessor basiert auf der 'Sapphire Rapids-SP'-Architektur. Die 16-Kern-CPU taktet mit 3,10 GHz und besitzt einen L3-Cache von 45 MB. Diverse Verbesserungen der Architektur sorgen für eine gesteigerte Leistung und eine Leistungssteigerung in Anwendungen selbst bei nicht optimiertem Code."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i5-13500, Prozessor (Boxed-Version)",
+		"Preis": "270,00",
+		"Link": "https://www.alternate.de/Intel/Core-i5-13500-Prozessor/html/product/1865256",
+		"Bild": "https://www.alternate.de/p/o/6/5/Intel__Core__i5_13500__Prozessor@@1865256.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 13ten Generation namens Raptor Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Raptor Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem Intel® 700er und 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i9-12900K, Prozessor (Boxed-Version)",
+		"Preis": "454,00",
+		"Link": "https://www.alternate.de/Intel/Core-i9-12900K-Prozessor/html/product/1778368",
+		"Bild": "https://www.alternate.de/p/o/8/6/Intel__Core__i9_12900K__Prozessor@@1778368.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i7-12700, Prozessor (Tray-Version)",
+		"Preis": "305,00",
+		"Link": "https://www.alternate.de/Intel/Core-i7-12700-Prozessor/html/product/1778353",
+		"Bild": "https://www.alternate.de/p/o/3/5/Intel__Core__i7_12700__Prozessor@@1778353.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i3-12100F, Prozessor (Boxed-Version)",
+		"Preis": "97,90",
+		"Link": "https://www.alternate.de/Intel/Core-i3-12100F-Prozessor/html/product/1778330",
+		"Bild": "https://www.alternate.de/p/o/0/3/Intel__Core__i3_12100F__Prozessor@@1778330.jpg",
+		"Beschreibung": "Die Intel® Core™ Desktop-Prozessoren der 12ten Generation namens Alder Lake bringen ein neues Chiplayout mit verschiedenen CPU-Kernen für verschiedene Anwendungsszenarien. Die Performance Cores sorgen für Leistung bei rechenintensiven Anwendungen, die Efficiency Cores für Energieeffizienz bei wenig Last. Die Alder Lake Prozessoren unterstützen PCIe Gen 5.0- und 4.0-, DDR5- und DDR4. Der Prozessor ist kompatibel mit Motherboards basierend auf dem 600er Chipsatz."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "Intel",
+		"Produkt": "Intel® Core™ i9-11900T, Prozessor (Tray-Version)",
+		"Preis": "539,00",
+		"Link": "https://www.alternate.de/Intel/Core-i9-11900T-Prozessor/html/product/1711141",
+		"Bild": "https://www.alternate.de/p/o/1/4/Intel__Core__i9_11900T__Prozessor@@1711141.jpg",
+		"Beschreibung": "Der Intel® Core™ i9-11900 Prozessor (Codename 'Rocket Lake') ist eine 8-Kern-CPU für den Sockel 1200 und basiert auf der Rocket-Lake Generation. Die CPU taktet mit 1,5 GHz und basiert auf Intel®'s 14-nm-Architektur der 11ten Generation und stellt eine Weiterentwicklung der bisherigen Core™-Prozessoren dar."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 7 5800X, Prozessor(Boxed-Version)",
+		"Preis": "204,90",
+		"Link": "https://www.alternate.de/AMD/Ryzen-7-5800X-Prozessor/html/product/1685585",
+		"Bild": "https://www.alternate.de/p/o/5/8/AMD_Ryzen__7_5800X__Prozessor@@1685585.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 7 5800X Prozessor ist eine 8-Kern-CPU für den Sockel AM4 mit 3,8 GHz Taktfrequenz und 32 MB L3-Cache. Der AMD Ryzen™ 7 5800X Prozessor besitzt eine maximale Leistungstaktrate von 4,7 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 5900X, Prozessor(Boxed-Version)",
+		"Preis": "319,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-5900X-Prozessor/html/product/1685590",
+		"Bild": "https://www.alternate.de/p/o/0/9/AMD_Ryzen__9_5900X__Prozessor@@1685590.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 5900X Prozessor ist eine 12-Kern-CPU für den Sockel AM4 mit 3,7 GHz Taktfrequenz und 64 MB L3-Cache. Der AMD Ryzen™ 9 5900X Prozessor besitzt eine maximale Leistungstaktrate von 4,8 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 5 5600X, Prozessor(Boxed-Version)",
+		"Preis": "164,90",
+		"Link": "https://www.alternate.de/AMD/Ryzen-5-5600X-Prozessor/html/product/1685588",
+		"Bild": "https://www.alternate.de/p/o/8/8/AMD_Ryzen__5_5600X__Prozessor@@1685588.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 5 5600X Prozessor ist eine 6-Kern-CPU für den Sockel AM4 mit 3,7 GHz Taktfrequenz und 32 MB L3-Cache. Der AMD Ryzen™ 5 5600X Prozessor besitzt eine maximale Leistungstaktrate von 4,6 GHz und wird im 7nm FinFET Verfahren gefertigt. Der AMD Ryzen™ 5 5600X Prozessor wird mit einem AMD Wraith Stealth Kühler ausgeliefert, der hervorragende Kühlleistung bietet."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 7950X3D, Prozessor(Boxed-Version)",
+		"Preis": "729,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-7950X3D-Prozessor/html/product/1898268",
+		"Bild": "https://www.alternate.de/p/o/8/6/AMD_Ryzen__9_7950X3D__Prozessor@@1898268.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 7950X3D Prozessor ist eine 16-Kern-CPU für den Sockel AM5 mit 4,2 GHz Taktfrequenz und 128 MB L3-Cache. Der AMD Ryzen™ 9 7950X3D Prozessor besitzt eine maximale Leistungstaktrate von 5,7 GHz und wird im 5nm FinFET Verfahren gefertigt. AMDs 3D V-Cache Technologie sorgt für geringe Latenz und noch mehr Spielleistung."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 7 5800X3D, Prozessor(Boxed-Version)",
+		"Preis": "299,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-7-5800X3D-Prozessor/html/product/1831269",
+		"Bild": "https://www.alternate.de/p/o/9/6/AMD_Ryzen__7_5800X3D__Prozessor@@1831269.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 7 5800X3D Prozessor ist eine 8-Kern-CPU für den Sockel AM4 mit 3,4 GHz Taktfrequenz und 96 MB L3-Cache. Der AMD Ryzen™ 7 5800X3D Prozessor besitzt eine maximale Leistungstaktrate von 4,5 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 7 7800X3D, Prozessor(Boxed-Version)",
+		"Preis": "469,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-7-7800X3D-Prozessor/html/product/1898270",
+		"Bild": "https://www.alternate.de/p/o/0/7/AMD_Ryzen__7_7800X3D__Prozessor@@1898270_30.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 7 7800X3D Prozessor ist eine 8-Kern-CPU für den Sockel AM5 mit 4,2 GHz Taktfrequenz und 96 MB L3-Cache. Der AMD Ryzen™ 7 7800X3D Prozessor besitzt eine maximale Leistungstaktrate von 5,0 GHz und wird im 5nm FinFET Verfahren gefertigt. AMDs 3D V-Cache Technologie sorgt für geringe Latenz und noch mehr Spielleistung."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 5950X, Prozessor(Boxed-Version)",
+		"Preis": "459,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-5950X-Prozessor/html/product/1685584",
+		"Bild": "https://www.alternate.de/p/o/4/8/AMD_Ryzen__9_5950X__Prozessor@@1685584.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 5950X Prozessor ist eine 16-Kern-CPU für den Sockel AM4 mit 3,4 GHz Taktfrequenz und 64 MB L3-Cache. Der AMD Ryzen™ 9 5950X Prozessor besitzt eine maximale Leistungstaktrate von 4,9 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 7 7700X, Prozessor(Boxed-Version)",
+		"Preis": "339,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-7-7700X-Prozessor/html/product/1861522",
+		"Bild": "https://www.alternate.de/p/o/2/2/AMD_Ryzen__7_7700X__Prozessor@@1861522.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 7 7700X Prozessor ist eine 8-Kern-CPU für den Sockel AM5 mit 4,5 GHz Taktfrequenz und 32 MB L3-Cache. Der AMD Ryzen™ 7 7700XProzessor besitzt eine maximale Leistungstaktrate von 5,4 GHz und wird im 5nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 7900X3D, Prozessor(Boxed-Version)",
+		"Preis": "579,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-7900X3D-Prozessor/html/product/1898267",
+		"Bild": "https://www.alternate.de/p/o/7/6/AMD_Ryzen__9_7900X3D__Prozessor@@1898267.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 7900X3D Prozessor ist eine 12-Kern-CPU für den Sockel AM5 mit 4,4 GHz Taktfrequenz und 128 MB L3-Cache. Der AMD Ryzen™ 9 7900X3D Prozessor besitzt eine maximale Leistungstaktrate von 5,6 GHz und wird im 5nm FinFET Verfahren gefertigt. AMDs 3D V-Cache Technologie sorgt für geringe Latenz und noch mehr Spielleistung."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 7900X, Prozessor(Boxed-Version)",
+		"Preis": "444,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-7900X-Prozessor/html/product/1861523",
+		"Bild": "https://www.alternate.de/p/o/3/2/AMD_Ryzen__9_7900X__Prozessor@@1861523.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 7900X Prozessor ist eine 12-Kern-CPU für den Sockel AM5 mit 4,7 GHz Taktfrequenz und 64 MB L3-Cache. Der AMD Ryzen™ 9 7900X Prozessor besitzt eine maximale Leistungstaktrate von 5,6 GHz und wird im 5nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 5 7600X, Prozessor(Boxed-Version)",
+		"Preis": "249,90",
+		"Link": "https://www.alternate.de/AMD/Ryzen-5-7600X-Prozessor/html/product/1861506",
+		"Bild": "https://www.alternate.de/p/o/6/0/AMD_Ryzen__5_7600X__Prozessor@@1861506.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 5 7600X Prozessor ist eine 6-Kern-CPU für den Sockel AM5 mit 4,7 GHz Taktfrequenz und 32 MB L3-Cache. Der Ryzen™ 5 7600X Prozessor besitzt eine maximale Leistungstaktrate von 5,3 GHz und wird im 5nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ 9 7950X, Prozessor(Boxed-Version)",
+		"Preis": "609,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-9-7950X-Prozessor/html/product/1861524",
+		"Bild": "https://www.alternate.de/p/o/4/2/AMD_Ryzen__9_7950X__Prozessor@@1861524.jpg",
+		"Beschreibung": "Der AMD Ryzen™ 9 7950X Prozessor ist eine 16-Kern-CPU für den Sockel AM5 mit 4,5 GHz Taktfrequenz und 64 MB L3-Cache. Der AMD Ryzen™ 9 7950XProzessor besitzt eine maximale Leistungstaktrate von 5,7 GHz und wird im 5nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ Threadripper PRO 5975WX, Prozessor(Boxed-Version)",
+		"Preis": "3.299,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-Threadripper-PRO-5975WX-Prozessor/html/product/1850961",
+		"Bild": "https://www.alternate.de/p/o/1/6/AMD_Ryzen__Threadripper_PRO_5975WX__Prozessor@@1850961.jpg",
+		"Beschreibung": "Der AMD® Ryzen™ Threadripper PRO 5975WX Prozessor ist eine 36-Kern-CPU für den Sockel sWRX8 mit 3,6 GHz Taktfrequenz und 128 MB L3-Cache. Der AMD® Ryzen™ Threadripper PRO 5975WX Prozessor besitzt eine maximale Leistungstaktrate von 4,5 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ Threadripper PRO 5995WX, Prozessor(Boxed-Version)",
+		"Preis": "6.199,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-Threadripper-PRO-5995WX-Prozessor/html/product/1850962",
+		"Bild": "https://www.alternate.de/p/o/2/6/AMD_Ryzen__Threadripper_PRO_5995WX__Prozessor@@1850962.jpg",
+		"Beschreibung": "Der AMD® Ryzen™ Threadripper PRO 5995WX Prozessor ist eine 64-Kern-CPU für den Sockel sWRX8 mit 2,7 GHz Taktfrequenz und 256 MB L3-Cache. Der AMD® Ryzen™ Threadripper PRO 5995WX Prozessor besitzt eine maximale Leistungstaktrate von 4,5 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Prozessor",
+		"Hersteller": "AMD",
+		"Produkt": "AMD Ryzen™ Threadripper™ PRO 5965WX, Prozessor(Boxed-Version)",
+		"Preis": "2.349,00",
+		"Link": "https://www.alternate.de/AMD/Ryzen-Threadripper-PRO-5965WX-Prozessor/html/product/1850959",
+		"Bild": "https://www.alternate.de/p/o/9/5/AMD_Ryzen__Threadripper__PRO_5965WX__Prozessor@@1850959.jpg",
+		"Beschreibung": "Der AMD® Ryzen™ Threadripper™ PRO 5965WX Prozessor ist eine 24-Kern-CPU für den Sockel sWRX8 mit 3,8 GHz Taktfrequenz und 128 MB L3-Cache. Der AMD® Ryzen™ Threadripper™ PRO 5965WX Prozessor besitzt eine maximale Leistungstaktrate von 4,5 GHz und wird im 7nm FinFET Verfahren gefertigt."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Sapphire",
+		"Produkt": "SAPPHIRE Radeon RX 7900 XTX NITRO+ Vapor-X 24GB, Grafikkarte(RDNA 3, GDDR6, 2x DisplayPort, 2x HDMI 2.1)",
+		"Preis": "1.179,00",
+		"Link": "https://www.alternate.de/SAPPHIRE/Radeon-RX-7900-XTX-NITROplus-Vapor-X-24GB-Grafikkarte/html/product/1888647",
+		"Bild": "https://www.alternate.de/p/o/7/4/SAPPHIRE_Radeon_RX_7900_XTX_NITRO__Vapor_X_24GB__Grafikkarte@@1888647.jpg",
+		"Beschreibung": "Die GPU der SAPPHIRE Radeon RX 7900 XTX NITRO+ Vapor-X 24GB basiert auf der RDNA 3-Architektur und wurde für 4K und 1440p-Leistung, Energieeffizienz und anspruchsvolles Gaming entwickelt. Mit 24 GB GDDR6 Videospeicher, Unterstützung des PCIe 4.0 Standards und Features wie Infinity Cache sorgen die AMD Radeon RX 7900 XTX GPUs mit Hilfe der RDNA3-Technologie für ein flüssiges Spielerlebnis mit toller Optik. Mit Funktionen wie Radeon Bildschärfung, FidelityFX, TressFX, TrueAudio Next und VR-Technologien sorgt der Radeon RX 7900 XTX Chip der SAPPHIRE Radeon RX 7900 XTX NITRO+ Vapor-X 24GB für hohe IPC-Werte. Verbesserte Grafikeffekte der SAPPHIRE Radeon RX 7900 XTX NITRO+ Vapor-X 24GB wie volumetrische Beleuchtung, Unschärfe und Tiefenschärfe sowie kürzere Latenzen lassen Gamerherzen höher schlagen."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Gainward",
+		"Produkt": "Gainward GeForce RTX 4060 Ti Ghost 8GB, Grafikkarte(DLSS 3, 3x DisplayPort, 1x HDMI 2.1)",
+		"Preis": "409,00",
+		"Link": "https://www.alternate.de/Gainward/GeForce-RTX-4060-Ti-Ghost-8GB-Grafikkarte/html/product/1915724",
+		"Bild": "https://www.alternate.de/p/o/4/2/Gainward_GeForce_RTX_4060_Ti_Ghost_8GB__Grafikkarte@@1915724.jpg",
+		"Beschreibung": "Die Gainward GeForce RTX 4060 Ti Ghost 8GB ist eine High-End-Grafikkarte mit der GeForce RTX 4060 Ti GPU von NVIDIA. Die leistungsfähigen GeForce RTX 40-Grafikkartenserie basiert auf der NVIDIA Ada Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, RTX IO und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, DirectX 12 Ultimate, NVIDIA DLSS 3.0, PCI Express Gen 4, NVIDIA FreeStyle, NVIDIA ShadowPlay, NVIDIA Highlights, NVENC Gen 8, AV1 Encoder, Vulkan RT API und OpenGL 4.6. Die auf der Gainward GeForce RTX 4060 Ti Ghost 8GB verbaute GPU verfügt über 4352 CUDA Cores. Der 8 Gbyte große GDDR6-Speicher verfügt über einen 128-Bit-Speicherkontroller."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Phantom",
+		"Produkt": "Gainward GeForce RTX 4090 Phantom, Grafikkarte(DLSS 3, 3x DisplayPort, 1x HDMI 2.1)",
+		"Preis": "1.679,00",
+		"Link": "https://www.alternate.de/Gainward/GeForce-RTX-4090-Phantom-Grafikkarte/html/product/1869450",
+		"Bild": "https://www.alternate.de/p/o/0/5/Gainward_GeForce_RTX_4090_Phantom__Grafikkarte@@1869450.jpg",
+		"Beschreibung": "Die Gainward GeForce RTX 4090 Phantom ist eine High-End-Grafikkarte mit der GeForce RTX 4090 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 40-Grafikkartenserie basiert auf der NVIDIA Ada Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, RTX IO und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, DirectX 12 Ultimate, NVIDIA DLSS 3.0, PCI Express Gen 4, NVIDIA FreeStyle, NVIDIA ShadowPlay, NVIDIA Highlights, NVENC Gen 8, AV1 Encoder, Vulkan RT API und OpenGL 4.6. Die auf der Gainward GeForce RTX 4090 Phantom verbaute GPU verfügt über 16384 CUDA Cores. Der 24 Gbyte große GDDR6X-Speicher verfügt über einen 384-Bit-Speicherkontroller und ist mit einer Bandbreite von 1008 GB/Sek angebunden."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Merc",
+		"Produkt": "XFX Radeon RX 7900 XT SPEEDSTER MERC 310, Grafikkarte(RDNA 3, GDDR6, 3x DisplayPort, 1x HDMI 2.1)",
+		"Preis": "859,00",
+		"Link": "https://www.alternate.de/XFX/Radeon-RX-7900-XT-SPEEDSTER-MERC-310-Grafikkarte/html/product/1906388",
+		"Bild": "https://www.alternate.de/p/o/8/8/XFX_Radeon_RX_7900_XT_SPEEDSTER_MERC_310__Grafikkarte@@1906388.jpg",
+		"Beschreibung": "Die GPU der XFX Radeon RX 7900 XT SPEEDSTER MERC 310 basiert auf der RDNA 3-Architektur und wurde für 4K und 1440p-Leistung, Energieeffizienz und anspruchsvolles Gaming entwickelt. Mit 20 GB GDDR6 Videospeicher, Unterstützung des PCIe 4.0 Standards und Features wie Infinity Cache sorgen die AMD Radeon RX 7900 XT GPUs mit Hilfe der RDNA3-Technologie für ein flüssiges Spielerlebnis mit toller Optik. Mit Funktionen wie Radeon Bildschärfung, FidelityFX, TressFX, TrueAudio Next und VR-Technologien sorgt der Radeon RX 7900 XT Chip der XFX Radeon RX 7900 XT SPEEDSTER MERC 310 für hohe IPC-Werte. Verbesserte Grafikeffekte der XFX Radeon RX 7900 XT SPEEDSTER MERC 310 wie volumetrische Beleuchtung, Unschärfe und Tiefenschärfe sowie kürzere Latenzen lassen Gamerherzen höher schlagen."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Gigabyte",
+		"Produkt": "GIGABYTE GeForce RTX 4090 GAMING OC 24G, Grafikkarte(DLSS 3, 3x DisplayPort, 1x HDMI 2.1)",
+		"Preis": "1.849,00",
+		"Link": "https://www.alternate.de/GIGABYTE/GeForce-RTX-4090-GAMING-OC-24G-Grafikkarte/html/product/1869454",
+		"Bild": "https://www.alternate.de/p/o/4/5/GIGABYTE_GeForce_RTX_4090_GAMING_OC_24G__Grafikkarte@@1869454.jpg",
+		"Beschreibung": "Die GIGABYTE GeForce RTX 4090 GAMING OC 24G ist eine High-End-Grafikkarte mit der GeForce RTX 4090 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 40-Grafikkartenserie basiert auf der NVIDIA Ada Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, RTX IO und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, DirectX 12 Ultimate, NVIDIA DLSS 3.0, PCI Express Gen 4, NVIDIA FreeStyle, NVIDIA ShadowPlay, NVIDIA Highlights, NVENC Gen 8, AV1 Encoder, Vulkan RT API und OpenGL 4.6. Die auf der GIGABYTE GeForce RTX 4090 GAMING OC 24G verbaute GPU verfügt über 16384 CUDA Cores. Der 24 Gbyte große GDDR6X-Speicher verfügt über einen 384-Bit-Speicherkontroller und ist mit einer Bandbreite von 1008 GB/Sek angebunden."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "MSI",
+		"Produkt": "MSI GeForce RTX 4090 GAMING X TRIO, Grafikkarte",
+		"Preis": "1.849,00",
+		"link": "https://www.alternate.de/MSI/GeForce-RTX-4090-GAMING-X-TRIO-Grafikkarte/html/product/1871121",
+		"Bild": "https://www.alternate.de/p/o/1/2/MSI_GeForce_RTX_4090_GAMING_X_TRIO__Grafikkarte@@1871121.jpg",
+		"Beschreibung": "Die MSI GeForce RTX 4090 GAMING X TRIO ist eine High-End-Grafikkarte mit der GeForce RTX 4090 GPU von NVIDIA. Die leistungsfähigen GeForce RTX 40-Grafikkartenserie basiert auf der NVIDIA Ada Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz, RTX IO und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, DirectX 12 Ultimate, NVIDIA DLSS 3.0, PCI Express Gen 4, NVIDIA FreeStyle, NVIDIA ShadowPlay, NVIDIA Highlights, NVENC Gen 8, AV1 Encoder, Vulkan RT API und OpenGL 4.6. Die auf der MSI GeForce RTX 4090 GAMING X TRIO verbaute GPU verfügt über 16384 CUDA Cores. Der 24 Gbyte große GDDR6X-Speicher verfügt über einen 384-Bit-Speicherkontroller und ist mit einer Bandbreite von 1008 GB/Sek angebunden."
+	},
+	{
+		"Komponente": "Grafikkarte",
+		"Hersteller": "Zotac",
+		"Produkt": "ZOTAC GeForce RTX 3060 Ti TWIN EDGE OC LHR, Grafikkarte",
+		"Preis": "379,00",
+		"Link": "https://www.alternate.de/ZOTAC/GeForce-RTX-3060-Ti-TWIN-EDGE-OC-LHR-Grafikkarte/html/product/1758204",
+		"Bild": "https://www.alternate.de/p/o/4/0/ZOTAC_GeForce_RTX_3060_Ti_TWIN_EDGE_OC_LHR__Grafikkarte@@1758204.jpg",
+		"Beschreibung": "Die ZOTAC GeForce RTX 3060 Ti TWIN EDGE OC LHR ist eine High-End-Grafikkarte mit der GeForce RTX 3060 Ti GPU von NVIDIA. Die leistungsfähigen GeForce RTX 30-Grafikkartenserie basiert auf der NVIDIA Ampere Architektur und bietet neue Stufen von Gaming Realismus, Geschwindigkeit und Leistungseffizienz und realistische VR-Erlebnisse. Weitere Features sind Real-Time Ray Tracing, NVIDIA Ansel, mit umfangreichen Werkzeugen zur Erstellung von Screenshots in Spielen sowie NVIDIA G-SYNC, G-SYNC HDR, DirectX 12 Ultimate, NVIDIA DLSS, PCI Express Gen 4, NVIDIA FreeStyle, NVIDIA ShadowPlay, NVIDIA Highlights, Vulkan RT API und OpenGL 4.6. Die auf der ZOTAC GeForce RTX 3060 Ti TWIN EDGE OC LHR verbaute GPU verfügt über 4864 Shadereinheiten. Der 8 Gbyte große GDDR6-Speicher verfügt über einen 256-Bit-Speicherkontroller mit einer Bandbreite von 448 GB/Sek angebunden."
+	},
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "Asus",
+		"Produkt": "ASUS ROG STRIX B650E-E GAMING WIFI, Mainboard(schwarz)",
+		"Preis": "343,00",
+		"Link": "https://www.alternate.de/html/product/1870276",
+		"Bild": "https://www.alternate.de/p/o/6/7/ASUS_ROG_STRIX_B650E_E_GAMING_WIFI__Mainboard@@1870276.jpg",
+		"Beschreibung": "Das ASUS ROG STRIX B650E-E GAMING WIFI basiert auf dem AMD-B650-Chipsatz und unterstützt AMD-Prozessoren für den Sockel AM5. Es verfügt über vier DDR5-Slots für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des ASUS ROG STRIX B650E-E GAMING WIFI gehören zwei PCIe-5.0-x16-Slots und ein PCIe-4.0-x16-Slot. Außerdem verfügt das ASUS ROG STRIX B650E-E GAMING WIFI über 8-Kanal-Sound, eine 2.5 Gigabit-LAN-Schnittstelle, WiFi 6E, Bluetooth 5.2, vier SATA3-Anschlüsse, vier M.2-Anschlüsse und eine Reihe an USB Schnittstellen."
+	},
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "MSI",
+		"Produkt": "MSI MPG B550 GAMING PLUS, Mainboard",
+		"Preis": "117,90",
+		"Link": "https://www.alternate.de/MSI/MPG-B550-GAMING-PLUS-Mainboard/html/product/1647933",
+		"Bild": "https://www.alternate.de/p/o/g/MSI_MPG_B550_GAMING_PLUS__Mainboard@@gremr603.jpg",
+		"Beschreibung": "Das MSI MPG B550 GAMING PLUS basiert auf dem AMD-B550-Chipsatz und unterstützt AMD-Prozessoren für den Sockel AM4. Es verfügt über vier DDR4-Slots für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des MSI MPG B550 GAMING PLUS gehören ein PCIe-4.0-x16-Slot, ein PCIe-3.0-x16-Slot und zwei PCIe-3.0-x1-Slots. Außerdem verfügt das MSI MPG B550 GAMING PLUS über 8-Kanal-Sound eine Gigabit-LAN-Schnittstelle, sechs SATA3-Anschlüsse, zwei M.2-Anschlüsse und eine Reihe an USB Schnittstellen.Art.-Nr.: 1647933 "
+	},
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "MSI",
+		"Produkt": "MSI MPG Z690 EDGE WIFI DDR4, Mainboard",
+		"Preis": "299,00",
+		"Link": "https://www.alternate.de/MSI/MPG-Z690-EDGE-WIFI-DDR4-Mainboard/html/product/1787425",
+		"Bild": "https://www.alternate.de/p/o/5/2/MSI_MPG_Z690_EDGE_WIFI_DDR4__Mainboard@@1787425.jpg",
+		"Beschreibung": "Das MSI MPG Z690 EDGE WIFI DDR4 Mainboard basiert auf dem Intel®-Z690-Chipsatz und unterstützt Intel®-Prozessoren für den Sockel 1700 der 12ten Generation. Es verfügt über vier DDR4-DIMM-Slots im Dual-Channel-Betrieb für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des MSI MPG Z690 EDGE WIFI DDR4 gehören zwei PCIe-5.0-x16-Slots und ein PCIe-3.0-x16-Slot. Außerdem verfügt das MSI MPG Z690 EDGE WIFI DDR4 über 8-Kanal-Sound, eine 2,5 Gigabit-LAN-Schnittstelle, sechs SATA3-Anschlüsse, vier M.2-Anschlüsse, WiFi 6, Bluetooth 5.2 und eine Reihe an USB Schnittstellen.Art.-Nr.: 1787425 "
+	},
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "Gigabyte",
+		"Produkt": "GIGABYTE B550 GAMING X V2, Mainboard",
+		"Preis": "123,90",
+		"Link": "https://www.alternate.de/GIGABYTE/B550-GAMING-X-V2-Mainboard/html/product/1693451",
+		"Bild": "https://www.alternate.de/p/o/1/5/GIGABYTE_B550_GAMING_X_V2__Mainboard@@1693451.jpg",
+		"Beschreibung": "Das GIGABYTE B550 GAMING X V2 basiert auf dem AMD-B550-Chipsatz und unterstützt AMD-Prozessoren für den Sockel AM4. Es verfügt über vier DDR4-Slots für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des GIGABYTE B550 GAMING X V2 gehören zwei PCIe-4.0-x16-Slots und drei PCIe-3.0-x1-Slots. Außerdem verfügt das GIGABYTE B550 GAMING X V2 über 8-Kanal-Sound, eine Gigabit-LAN-Schnittstelle, vier SATA3-Anschlüsse, zwei M.2-Anschlüsse und eine Reihe an USB Schnittstellen.Art.-Nr.: 1693451"
+	},
+	{
+		"Komponente": "Mainboard",
+		"Hersteller": "Asrock",
+		"Produkt": "ASRock B550 Phantom Gaming 4, Mainboard",
+		"Preis": "110,90",
+		"Link": "https://www.alternate.de/ASRock/B550-Phantom-Gaming-4-Mainboard/html/product/1648284",
+		"Bild": "https://www.alternate.de/p/o/g/ASRock_B550_Phantom_Gaming_4__Mainboard@@grerr606.jpg",
+		"Beschreibung": "Das ASRock B550 B550 Phantom Gaming 4 basiert auf dem AMD-B550-Chipsatz und unterstützt AMD-Prozessoren für den Sockel AM4. Es verfügt über vier DDR4-Slots für bis zu 128 GB Arbeitsspeicher. Zur weiteren Ausstattung des ASRock B550 Phantom Gaming 4 gehören ein PCIe-4.0-x16-Slots, ein PCIe-3.0-x16-Slots und zwei PCIe-3.0-x1-Slots. Außerdem verfügt das ASRock B550 Phantom Gaming 4 über 8-Kanal-Sound, eine Gigabit-LAN-Schnittstelle, sechs SATA3-Anschlüsse, zwei M.2-Anschlüsse und eine Reihe an USB Schnittstellen.Art.-Nr.: 1648284 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "Thermaltake",
+		"Produkt": "Thermaltake Toughpower GF3 850W, PC-Netzteil(schwarz, 5x PCIe, Kabel-Management, 850 Watt)",
+		"Preis": "134,90",
+		"Link": "https://www.alternate.de/html/product/1844780",
+		"Bild": "https://www.alternate.de/p/o/0/8/Thermaltake_Toughpower_GF3_850W__PC_Netzteil@@1844780.jpg",
+		"Beschreibung": "Das Thermaltake Toughpower GF3 850W ist PCIe Gen 5-konform, 80 PLUS Gold-zertifiziert mit einer Effizienz von bis zu 90 % und besitzt einen 140-mm-Lüfter mit Hydraulic-Lager. Die Japanische 105°C-Kondensatoren bieten 100% Premium-Qualität. Die vollständig modularen, flachen schwarze Kabel haben ein niedriges Profil. Der Smart Zero Fan minimiert unerwünschte Geräusche. Das Hochstromdesign mit einer einzigen +12V-Schiene und das DC-DC-Design sorgen für eine präzisere elektrische Leistung.Art.-Nr.: 1844780 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "be quiet!",
+		"Produkt": "be quiet! STRAIGHT POWER 11 Platinum 1000W, PC-Netzteil(schwarz, 4x PCIe, Kabel-Management, 1000 Watt)",
+		"Preis": "199,90",
+		"Link": "https://www.alternate.de/be-quiet/STRAIGHT-POWER-11-Platinum-1000W-PC-Netzteil/html/product/1608424",
+		"Bild": "https://www.alternate.de/p/o/4/2/be_quiet__STRAIGHT_POWER_11_Platinum_1000W__PC_Netzteil@@1608424.jpg",
+		"Beschreibung": "Das Straight Power 11 Platinum setzt Maßstäbe für flüsterleise Systeme, ohne auch nur geringste Kompromisse bei der Stromversorgung einzugehen. Die 80 PLUS Platinum Zertifizierung beweist den Fokus auf Effizienz in der neuesten Seriengeneration der Straight Power Serie. All das macht die Straight Power 11 Serie leiser als zuvor und zur besten Wahl für den Aufbau neuer oder für ein Upgrade bestehender Systeme. Straight Power 11 gehört zur ersten Wahl unter den Premium-Netzteilen.Art.-Nr.: 1608424 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "be quiet!",
+		"Produkt": "be quiet! STRAIGHT POWER 11 Platinum 1000W, PC-Netzteil(schwarz, 4x PCIe, Kabel-Management, 1000 Watt)",
+		"Preis": "199,90",
+		"Link": "https://www.alternate.de/be-quiet/STRAIGHT-POWER-11-Platinum-1000W-PC-Netzteil/html/product/1608424",
+		"Bild": "https://www.alternate.de/p/o/4/2/be_quiet__STRAIGHT_POWER_11_Platinum_1000W__PC_Netzteil@@1608424.jpg",
+		"Beschreibung": "Das Straight Power 11 Platinum setzt Maßstäbe für flüsterleise Systeme, ohne auch nur geringste Kompromisse bei der Stromversorgung einzugehen. Die 80 PLUS Platinum Zertifizierung beweist den Fokus auf Effizienz in der neuesten Seriengeneration der Straight Power Serie. All das macht die Straight Power 11 Serie leiser als zuvor und zur besten Wahl für den Aufbau neuer oder für ein Upgrade bestehender Systeme. Straight Power 11 gehört zur ersten Wahl unter den Premium-Netzteilen.Art.-Nr.: 1608424 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon WPM Gold ZERO 750W, PC-Netzteil(schwarz, 4x PCIe, Kabel-Management, 750 Watt)",
+		"Preis": "89,90",
+		"Link": "https://www.alternate.de/Sharkoon/WPM-Gold-ZERO-750W-PC-Netzteil/html/product/1467183",
+		"Bild": "https://www.alternate.de/p/o/3/8/Sharkoon_WPM_Gold_ZERO_750W__PC_Netzteil@@1467183.jpg",
+		"Beschreibung": "Das WPM Gold ZERO ist ein zuverlässiges Netzteil mit moderner LLC-Resonanzwandler-Technologie, das optimale Leistung für Gaming-PCs liefert und dabei zertifiziert energieeffizient und flüsterleise ist. So setzt zum Beispiel die Zero-RPM-Funktion die Lüfterrotation aus, wenn keine aktive Kühlleistung benötigt wird. Der semimodulare Aufbau bietet darüber hinaus eine übersichtliche Unterbringung und Montage. Ausgezeichnet energieeffizient. Mit einer Effizienz von mindestens 90 % bei 50 % Last sowie 87 % Effizienz bei 20 % und 100 % Last ist das WPM Gold ZERO 80 PLUS Gold zertifiziert. Moderne LLC-Technologie. Das WPM Gold ZERO ist mit modernster LLC-Resonanzwandler-Technologie ausgestattet. Durch diese liefert das Netzteil gleichbleibende und störungsarme Spannung. Die Geräusch- und Hitzeentwicklung ist dabei weitestmöglich minimiert. ZERO-RPM-Funktion. Die ZERO-RPM-Funktion sorgt dafür, dass bei leichter bis mittlerer Last die Lüfterrotation für einen geräuschlosen Betrieb ausgesetzt wird. Wenn vom System wieder eine aktive Kühlleistung benötigt wird, setzt das System die Lüfterrotation automatisch fort. RYZEN-bereit und semimodular. Für ein aufgeräumtes Gehäuseinnere kann der Kabelbaum an die jeweiligen Bedürfnisse angepasst werden. Lediglich das immer benötigte ATX-Kabel und der 4+4-polige CPU-Anschluss sind fest mit dem Netzteil verbunden. Dank des zweiten 4+4-poligen CPU-Kabels können auch stromhungrige Systeme wie RYZEN ohne Adapter mit Energie versorgt werden. Hierbei nutzt dieses einen der beiden PCIe-/CPU-Steckplätze, mit denen auch Grafikkarten versorgt werden können.Art.-Nr.: 1467183 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "Corsair",
+		"Produkt": "Corsair RM850x 850W, PC-Netzteil(schwarz, 5x PCIe, Kabel-Management, 850 Watt)",
+		"Preis": "154,90",
+		"Link": "https://www.alternate.de/Corsair/RM850x-850W-PC-Netzteil/html/product/1887117",
+		"Bild": "https://www.alternate.de/p/o/7/1/Corsair_RM850x_850W__PC_Netzteil@@1887117.jpg",
+		"Beschreibung": "Die vollständig modularen Netzgeräte der CORSAIR RMx SHIFT Serie werden mit den hochwertigsten Komponenten gefertigt und bieten dem PC effiziente 80 PLUS Gold-Leistung bei nahezu geräuschlosem Betrieb. Der hocheffiziente Betrieb sorgt für einen geringen Stromverbrauch, weniger Lärm und niedrigere Temperaturen. Eine speziell konfigurierte Lüfterkurve reduziert die Geräuschbildung auch bei voller Leistung auf ein Minimum. Bei kleinen und mittleren Lasten wird der Lüfter vollständig ausgeschaltet und ermöglicht einen nahezu geräuschlosen Betrieb. Erstklassige interne Komponenten bieten eine einwandfreie Leistung und anhaltende Zuverlässigkeit.Art.-Nr.: 1887117  "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "Seasonic",
+		"Produkt": "Seasonic PRIME TX-850, PC-Netzteil(schwarz, 6x PCIe, Kabel-Management, 850 Watt)",
+		"Preis": "239,00",
+		"Link": "https://www.alternate.de/Seasonic/PRIME-TX-850-PC-Netzteil/html/product/1575606",
+		"Bild": "https://www.alternate.de/p/o/6/0/Seasonic_PRIME_TX_850__PC_Netzteil@@1575606.jpg",
+		"Beschreibung": "Mit der One Seasonic Initiative wurden die Serien PRIME TX, PRIME PX und PRIME GX zu den Nachfolgern der Seasonic PRIME- und PRIME Ultra-Serie. Die PRIME-Serie hat stets herausragende Leistung gezeigt und ist im Laufe der Jahre zum Inbegriff für technologische Exzellenz und Qualität geworden. Diese dritte Generation der PRIME-Serie wurde nicht nur mit einem einheitlichen Namensschema, sondern auch mit aktualisierten allgemeinen Design- und Verbindungskabeln eingeführt. Die PRIME Titanium-Serie erreicht mit einem Wirkungsgrad von 94% bei 50% Systemlast die höchste Stufe der 80 PLUS-Zertifizierung auf dem Markt. Die langjährige Erfahrung von Seasonic bei der Entwicklung der leisesten und effizientesten Netzteile auf dem Markt floss in die Entwicklung des Hybrid-Modus ein, einer hochmoderne Lüftersteuerung, mit der Benutzer das gesamte Lüftergeräusch auf einem möglichst niedrigen Niveau halten können.Art.-Nr.: 1575606 "
+	},
+	{
+		"Komponente": "Netzteil",
+		"Hersteller": "Chieftec",
+		"Produkt": "Chieftec PPS-1050FC 1050W, PC-Netzteil(schwarz, 6x PCIe, Kabel-Management, 1050 Watt)ChieftecChieftec PPS-1050FC 1050W, PC-Netzteil schwarz, 6x PCIe, Kabel-Management, 1050 Watt",
+		"Preis": "179,90",
+		"Link": "https://www.alternate.de/Chieftec/PPS-1050FC-1050W-PC-Netzteil/html/product/1721531",
+		"Bild": "https://www.alternate.de/p/o/1/3/Chieftec_PPS_1050FC_1050W__PC_Netzteil@@1721531_1.jpg",
+		"Beschreibung": "Die Polaris Serie bringt CHIEFTECs vertraute und bewährte Erfahrung bei qualitativ hochwertigen 80 PLUS Gold zertifizierten, vollmodularen Netzteilen zurück an die Spitze der modernen Technik. Die PC-Netzteile der Polaris Serie bieten modernes technisches Design wie LLC Half-Bridge, Spannungswandlern mit DC-to-DC Technologie, als auch einer hohen Power-Density für höhere Effizienz und Leistung bei kompakter Bauform. Mit einer Netzteillänge von nur 140 mm und vollmodularem Kabelmanagement, lässt sich die Polaris Serie sehr leicht in jedes System integrieren, dass den ATX Formfaktor unterstützt. Kabellängen von bis zu 650 mm erlauben eine problemlose Installation auch in großen Gehäusen. Dabei spielt es keine Rolle, ob ein kompaktes Netzteil für kleine Systeme benötigt wird oder lange Kabel für größere Systeme, die Netzteile der Polaris Serie bringen Flexibilität bei modernster Leistung und Effizienz.Art.-Nr.: 1721531 "
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon S90 RGB AIO 360mm, Wasserkühlung(schwarz)",
+		"Preis": "129,90",
+		"Link": "https://www.alternate.de/html/product/1871663",
+		"Bild": "https://www.alternate.de/p/o/3/6/Sharkoon_S90_RGB_AIO_360mm__Wasserk_hlung@@1871663.jpg",
+		"Beschreibung": "Die S90 RGB ist eine kompakte All-in-One-Wasserkühlung, die mit einem 360-Millimeter-Radiator eine effiziente Kühlung für alle CPUs liefert. Die adressierbaren RGB-PWM-Lüfter sorgen neben optischen Highlights in 16,7 Millionen Farben auch für eine gute Kühlleistung mit bis zu 2.000 Umdrehungen pro Minute. Durch flexible, textilummantelte Schläuche und mitgelieferte Montagehalterungen gestaltet sich auch der Einbau spielend einfach. Die drei zum 360-Millimeter-Radiator gehörenden RGB-PWM-Lüfter der S90 RGB sind nicht nur in ihrer Beleuchtung vollständig adressierbar, sondern können auch in einem Drehzahlbereich von 600 bis 2.000 Umdrehungen pro Minute individuell geregelt werden. Zudem lassen sich die Lüfter für ein einfaches Kabelmanagement mittels 'Daisy Chain' in Reihe schalten. Auch die Pumpe verfügt über eine PWM-Steuerung für optimale Performance und geringe Lautstärke. Wie die Lüfter ist auch der CPU-Kühler mit einer RGB-Beleuchtung ausgestattet und wartet zusätzlich einem schicken Infinity-SpiegelEffekt auf. Eine Kupferplatte sowie die mitgelieferte, hochwertige DOWSIL-Wärmeleitpaste sorgen dabei für eine bestmögliche Wärmeableitung. Dank zweier beiliegender Montagehalterungen für die CPUs aller Hersteller ist die All-in-One-Wasserkühlungslösung optimal für den direkten Einsatz im Gehäuse vorbereitet. Der Einbau im Gehäuse gestaltet sich mittels flexibler Schläuche so unkompliziert wie möglich. Die Schläuche sind zudem textilummantelt, um optimal vor Kratzern geschützt zu sein. Um jederzeit eine horizontale Ausrichtung des Sharkoon-Logos zu ermöglichen, lässt es sich jederzeit bequem auf dem CPU-Kühler in die gewünschte Position drehen.Art.-Nr.: 1871663 "
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "NZXT",
+		"Produkt": "NZXT Kraken 120mm , Wasserkühlung(schwarz (matt), AM4 ready)",
+		"Preis": "69,90",
+		"Link": "https://www.alternate.de/NZXT/Kraken-120mm-Wasserk%C3%BChlung/html/product/1769602",
+		"Bild": "https://www.alternate.de/p/o/2/0/NZXT_Kraken_120mm____Wasserk_hlung@@1769602.jpg",
+		"Beschreibung": "Die Wasserkühlung Kraken 120mm verbindet das Aussehen eines AIO-Kühlsystems mit der Funktion eines Lüftersatzes im 120-mm-Format und sorgt für Kühlung dort, wo man sie braucht. Sie verfügt über eine RGB-kappe und individuell adressierbare Logo- und Ring-RGB-LEDs – so kann man mit der Kraken 120mm den Build um eine leise und effektive Wasserkühlung ergänzen. Eine überarbeitete Pumpenkammer bietet eine höhere thermische Leistung in Kombination mit dem Aer P Radiator für eine perfekte Wasserkühlung. Abgewinkelte Lufteintrittsöffnungen und hydrodynamische Gleitlager sorgen für einen leisen Betrieb, eine längere Lebensdauer und eine starke Kühlleistung. Feine Nylon-Ummantelungen machen die Gummischläuche robuster. Diese zusätzliche Verkleidung schützt die Kühlerschläuche des Kraken während der Handhabung vor Schäden.Art.-Nr.: 1769602 "
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon S80 RGB AIO 240mm, Wasserkühlung(schwarz)",
+		"Preis": "79,90",
+		"Link": "https://www.alternate.de/html/product/1871662",
+		"Bild": "https://www.alternate.de/p/o/2/6/Sharkoon_S80_RGB_AIO_240mm__Wasserk_hlung@@1871662.jpg",
+		"Beschreibung": "Die S80 RGB ist eine kompakte All-in-One-Wasserkühlung, die mit einem 240-Millimeter-Radiator eine effiziente Kühlung für CPUs liefert. Die adressierbaren RGB-PWM-Lüfter sorgen neben optischen Highlights in 16,7 Millionen Farben auch für eine gute Kühlleistung mit bis zu 2.000 Umdrehungen pro Minute. Durch flexible, textilummantelte Schläuche und mitgelieferte Montagehalterungen gestaltet sich auch der Einbau spielend einfach. Die beiden zum 240-Millimeter-Radiator gehörenden RGB-PWM-Lüfter der S80 RGB sind nicht nur in ihrer Beleuchtung vollständig adressierbar, sondern können auch in einem Drehzahlbereich von 600 bis 2.000 Umdrehungen pro Minute individuell geregelt werden. Zudem lassen sich die Lüfter für ein einfaches Kabelmanagement mittels 'Daisy Chain' in Reihe schalten. Auch die Pumpe verfügt über eine PWM-Steuerung für optimale Performance und geringe Lautstärke. Wie die Lüfter ist auch der CPU-Kühler mit einer RGB-Beleuchtung ausgestattet und wartet zusätzlich einem schicken Infinity-Spiegel-Effekt auf. Eine Kupferplatte, sowie die mitgelieferte, hochwertige DOWSIL™-Wärmeleitpaste sorgen dabei für eine bestmögliche Wärmeableitung. Dank zweier beiliegender Montagehalterungen für die CPUs aller Hersteller ist die All-in-One-Wasserkühlungslösung optimal für den direkten Einsatz im Gehäuse vorbereitet. Der Einbau im Gehäuse gestaltet sich mittels flexibler Schläuche so unkompliziert wie möglich. Die Schläuche sind zudem textilummantelt, um optimal vor Kratzern geschützt zu sein. Um jederzeit eine horizontale Ausrichtung des Sharkoon-Logos zu ermöglichen, lässt es sich jederzeit bequem auf dem CPU-Kühler in die gewünschte Position drehen.Art.-Nr.: 1871662 "
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "Thermaltake",
+		"Produkt": "Thermaltake Pacific TOUGH C240 Liquid Cooling Kit 240mm, Wasserkühlung",
+		"Preis": "379,90",
+		"Link": "https://www.alternate.de/Thermaltake/Pacific-TOUGH-C240-Liquid-Cooling-Kit-240mm-Wasserk%C3%BChlung/html/product/1792680",
+		"Bild": "https://www.alternate.de/p/o/0/8/Thermaltake_Pacific_TOUGH_C240_Liquid_Cooling_Kit_240mm__Wasserk_hlung@@1792680.jpg",
+		"Beschreibung": "Das Thermaltake Pacific TOUGH C240 Liquid Cooling Kit 360mm Wasserkühlungskit bietet dem anspruchsvollen Anwender ein komplettes Set. In dem Kit ist ein einen 240-mm-Radiator, ein CPU Kühlblock, zwei TOUGHFAN 12 Radiator Lüfter, eine Kombination aus hochwertiger Pumpe und Ausgleichsbehälter, sowie alle nötigen Tubes und Anschlüsse."
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "Enermax",
+		"Produkt": "Enermax Liqmax III ARGB 360 mm, Wasserkühlung(schwarz)",
+		"Preis": "99,90",
+		"Link": "https://www.alternate.de/Enermax/Liqmax-III-ARGB-360-mm-Wasserk%C3%BChlung/html/product/1592313",
+		"Bild": "https://www.alternate.de/p/o/h/Enermax_Liqmax_III_ARGB_360_mm__Wasserk_hlung@@hxlx41_1.jpg",
+		"Beschreibung": "Der LIQMAX III ARGB, ein CPU-AIO-Kühler, ist für die Synchronisierung mit Motherboards mit adressierbarem RGB-Header (5 V) ausgelegt. Durch die Synchronisierung mit der Motherboard-Software kann man die RGB Beleuchtung mit16,8 Millionen Farben nutzen. Der LIQMAX III ARGB 360 mm enthält auch eine RGB-Steuerbox für die Auswahl des bevorzugten Lichteffektes. Hierfür ist keine Software erforderlich. Der patentierte Dual Chamber Design-Wasserblock verfügt über einen zentralen Kühlmitteleinlass (CCI). Kombiniert mit der Shunt-Channel-Technologie (SCT) auf der Kühlplatte, ist es möglich, das Kühlmittel an der heißesten Stelle einzusetzen, um Wärmestöße zu vermeiden und den Kühlmittelflussweg zu verkürzen, was zu einer schnelleren Wärmeübertragung führt. Darüber hinaus kann das Dual-Konvex-Blade Luftdruck und Luftvolumenstrom für eine optimale Kühlleistung erzeugen. Der LIQMAX III ARGB Kühler ist die ideale Wahl für RGB-Gaming-Rigs mit Wasserkühlung."
+	},
+	{
+		"Komponente": "Kühlung",
+		"Hersteller": "Thermaltake",
+		"Produkt": "Thermaltake TOUGHLIQUID Ultra 240 All-In-One Liquid Cooler 240mm, Wasserkühlung",
+		"Preis": "139,90",
+		"Link": "https://www.alternate.de/Thermaltake/TOUGHLIQUID-Ultra-240-All-In-One-Liquid-Cooler-240mm-Wasserk%C3%BChlung/html/product/1842910",
+		"Bild": "https://www.alternate.de/p/o/0/1/Thermaltake_TOUGHLIQUID_Ultra_240_All_In_One_Liquid_Cooler_240mm__Wasserk_hlung@@1842910.jpg",
+		"Beschreibung": "Der Thermaltake TOUGHLIQUID Ultra 240 All-In-One Liquid Cooler ist ein All-in-One-Flüssigkeitskühler mit einem LCD-Display, das Echtzeitinformationen des Systems anzeigt und sogar GIF-Dateien mit einer Auflösung von 480*480 wiedergibt. Außerdem ist er mit TOUGHFAN 12 Turbo-Lüftern ausgestattet, die für hervorragende Kühlergebnisse bei minimaler Geräuschentwicklung sorgen.Art.-Nr.: 1842910"
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon M30 RGB, Tower-Gehäuse(schwarz, Gehärtetes Glas)",
+		"Preis": "79,90",
+		"Link": "https://www.alternate.de/html/product/1839308",
+		"Bild": "https://www.alternate.de/p/o/8/0/Sharkoon_M30_RGB__Tower_Geh_use@@1839308_30.jpg",
+		"Beschreibung": "Im dezenten Design und einer großflächigen Mesh-Front erweist sich das Sharkoon M30 RGB als vielseitig einsetzbar. Ein vorinstallierter 120-Millimeter-RGB-PWM-Lüfter schafft tolle Lichteffekte, während ein Seitenteil aus gehärtetem Glas Einblicke ins geräumige Innere erlaubt. Dank der Mesh-Front und der Möglichkeit, einen 360-mm-Radiator hinter der Front oder auf der Oberseite einzubauen, liegen die Temperaturen im M30 RGB im kühlen Bereich. Das M30 ist mit umfangreichen Kühlmöglichkeiten ausgestattet. In dem ATX-Gehäuse können bis zu sieben Lüfter eingebaut werden. Ein 120-Millimeter- PWM-Lüfter sitzt bereits hinter der Front, ein 120-Millimeter-RGB-PWM-Lüfter an der Rückseite. Dank der RGB-Steuerung lässt sich das Gehäuse mit tollen Effekten ausleuchten, die durch das Seitenteil aus gehärtetem Glas besonders gut zur Geltung kommen. Mattschwarz gehalten und minimalistisch gestaltet, hat das M30 RGB eine zeitlose Optik, die in jedes Setup passt. Das unterstreicht auch die großflächig mit Mesh überzogene Front. Durch die abgerundeten Kanten wird sowohl das dezente Design hervorgehoben, gleichzeitig kann über die Frontblende massig Luft ins Gehäuse gezogen werden. Wer bei der Kühlung der verbauten Komponenten lieber auf Wasser anstatt auf Luft setzt, findet im M30 RGB die Voraussetzungen dafür. An der Oberseite oder hinter der Front kann ein 360-mm-Radiator installiert werden. Je nach Größe des Mainboards und Höhe des RAM können der Radiator und die Lüfter auf der Oberseite von 5 bis 20 Zentimeter hoch sein. Hinter der schlichten Optik des Gehäuses verbirgt sich massig Platz im Innenraum. Große Hardware mit üppigen Abmessungen lässt sich ganz leicht für leistungsstarke Builds verbauen. Netzteile mit einer Länge bis zu 22 Zentimeter oder Grafikkarten bis zu 38 Zentimeter können installiert werden. Für eine schnelle Datenübertragung und eine ideale Konnektivität zu modernen Mobilgeräten ist das M30 RGB mit einem USB-Typ-C-Anschluss ausgestattet. Eine entspannte Installation aller Teile wird mit dem M30 RGB ganz einfach gemacht. Im Netzteil-Tunnel oder hinter dem Mainboard-Tray lassen sich Festplatten oder SSDs mit wenigen Handgriffen verbergen. Durch die leicht zugänglichen Kabeldurchführungen verschwindet auch schnell die Verkabelung, wodurch im Gehäuse zu jeder Zeit alles aufgeräumt und ordentlich ist.Art.-Nr.: 1839308 "
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "be quiet!",
+		"Produkt": "be quiet! PURE BASE 600, Tower-Gehäuse(schwarz)",
+		"Preis": "80,90",
+		"Link": "https://www.alternate.de/be-quiet/PURE-BASE-600-Tower-Geh%C3%A4use/html/product/1301672",
+		"Bild": "https://www.alternate.de/p/o/t/be_quiet__PURE_BASE_600__Tower_Geh_use@@tqxv2026.jpg",
+		"Beschreibung": "Das PC-Gehäuse be quiet! PURE BASE 600 ist ein echtes Multitalent und verbindet eine Menge Funktionalität mit einem extrem attraktiven Preis-Leistungsverhältnis. Das Gehäuse ist ausgesprochen benutzerfreundlich und flüsterleise im Betrieb. Es ist die perfekte Basis für nahezu jede Systemkonfiguration eines ATX oder Micro ATX PCs.Art.-Nr.: 1301672 "
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon REV300, Tower-Gehäuse(schwarz)",
+		"Preis": "159,90",
+		"Link": "https://www.alternate.de/html/product/1703141",
+		"Bild": "https://www.alternate.de/p/o/1/4/Sharkoon_REV300__Tower_Geh_use@@1703141.jpg",
+		"Beschreibung": "Das innovative ATX-Gehäuse REV300 ist geschaffen für Leistung. Das durchdachte Konzept ermöglicht ein ganz neues Gefühl bei der Zusammenstellung eines Gaming-PCs. Eine Frontblende mit Mesh und sieben vorinstallierten PWM-Lüftern optimieren den Airflow und maximieren die Performance der Hardware. Dank adressierbarer Lüfter-LEDs und eines Seitenteils aus gehärtetem Glas, wird alles, was im REV300 eingebaut ist, richtig zur Geltung gebracht. Mit der REV-Serie hat Sharkoon traditionelle Gehäuse einfach auf links gedreht. Das REV300 bildet hier keine Ausnahme und lässt sich wieder durch ein rechts angebrachtes Seitenteil aus gehärtetem Glas ins Innere schauen. Perfekt für alle, die ihr mächtiges Gaming-System auf der linken Seite des eigenen Setups positionieren wollen. REVolutionär ist zudem der Einbau aller Komponenten um ein um 90 Grad gedrehtes Mainboard, das alle Kabel und Anschlüsse in ein spezielles Kabelfach an der Oberseite abführt. Die I/O-Blende glänzt nicht nur mit vier herkömmlichen USB-Anschlüssen, sondern bietet auch einen Anschluss für Geräte mit USB-Type-C-Schnittstelle. Eine stattliche Größe und ein eleganter Look zeichnen das REV300 aus. Die mit Mesh überzogene Frontblende wird durch geometrisch verwinkelte Ecken eingerahmt, die somit dezente optische Akzente setzen und den Fokus auf die adressierbaren RGB-Lüfter an der Vorderseite lenken. Durch das minimalistische Design kommt die eindrucksvolle Beleuchtung des REV300 noch besser zur Geltung. Sieben vollständig adressierbare Lüfter tauchen das massive Gehäuse in leuchtende Farben und verwandeln es in einen Traum für RGB-Enthusiasten. Wer ein anspruchsvolles Gaming-System sein Eigen nennt, der weiß, dass ein ordentlicher Airflow ein Muss ist. Das REV300 ist dafür bestens ausgestattet. Sieben Lüfter sind im Gehäuse bereits vorinstalliert, sodass man direkt durchstarten und von einer maximalen Kühlung der Hardware profitieren kann. Ein Mesh-Gitter erstreckt sich über die gesamte Frontblende und macht so den Weg für ordentlich viel Luft frei, die drei 140-mm-RGB-LED-Lüftern zugeführt wird. An der Rückseite sind nochmal drei 120-mm-RGB-LED-Lüfter eingebaut. Ergänzt durch einen weiteren 120-mm-RGB-LED-Lüfter an der Oberseite entsteht ein effizienter Airflow, der selbst Systeme unter Volllast kühl hält. Wer auf Wasserkühlung setzt, kann im REV300 auch gleich zwei Radiatoren unterbringen. An der Rückseite ist der Einbau eines 360 mm großen Radiators möglich während in der Front sogar ein gigantischer 420 mm-Radiator Platz findet.Art.-Nr.: 1703141 "
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "NZXT",
+		"Produkt": "NZXT H1 v2, Tower-Gehäuse(weiß/schwarz)",
+		"Preis": "249,90",
+		"Link": "https://www.alternate.de/NZXT/H1-v2-Tower-Geh%C3%A4use/html/product/1808823",
+		"Bild": "https://www.alternate.de/p/o/3/2/NZXT_H1_v2__Tower_Geh_use@@1808823.jpg",
+		"Beschreibung": "Das NZXT H1 v2 ist ein kleines vertikales Gehäuse, das die GPU-Kompatibilität in voller Größe beibehält. Der Aufbau mit vorgerouteten Kabelkanälen und einem integrierten Netzteil und AIO-Flüssigkeitskühler. Das Zwei-Kammer Abluft-Layout sorgt für eine hervorragende Kühlung von CPU und GPU, die jeweils über eine eigene Luftquelle verfügen. Ein integriertes Netzteil und der AIO-Flüssigkeitskühler sorgen für ein besseres Bauerlebnis, zusammen mit vorverlegten Kabeln, die Kabelgewirr vermeiden und die Bauzeit verkürzen. Eine integrierte PCIe-Riser-Karte für die vertikale GPU-Montage ist ebenfalls enthalten.Art.-Nr.: 1808823 "
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "Deepcool",
+		"Produkt": "DeepCool Matrexx 70 3F, Tower-Gehäuse(schwarz, Window-Kit)",
+		"Preis": "109,99",
+		"Link": "https://www.alternate.de/DeepCool/Matrexx-70-3F-Tower-Geh%C3%A4use/html/product/1532120",
+		"Bild": "https://www.alternate.de/p/o/0/2/DeepCool_Matrexx_70_3F__Tower_Geh_use@@1532120.jpg",
+		"Beschreibung": "Das Midi Tower-Gehäuse Deepcool Matrexx 70 3F bietet drei adressierbare 120-mm-RGB-Lüfter und einen ADD-RGB-Streifen für erstklassige Lichteffekte. Das Beleuchtungssystem umfasst 5 vorprogrammierte Lichteffekte (dynamische Farben, Statik, Atmung, Kometen und Fashion Collision) und kann einfach über die RGB-Taste am E/A-Panel oder alternativ über ein unterstütztes Mainboard mit adressierbarer RGB-Synchronisationsfunktion gesteuert werden.Art.-Nr.: 1532120 "
+	},
+	{
+		"Komponente": "Gehäuse",
+		"Hersteller": "HYTE",
+		"Produkt": "HYTE Y60, Tower-Gehäuse(schwarz, Tempered Glass)",
+		"Preis": "209,90",
+		"Link": "https://www.alternate.de/HYTE/Y60-Tower-Geh%C3%A4use/html/product/1820356",
+		"Bild": "https://www.alternate.de/p/o/6/5/HYTE_Y60__Tower_Geh_use@@1820356.jpg",
+		"Beschreibung": "Das PC-Gehäuse HYTE Y60 verfügt über ein 3-teiliges Panorama-Design aus gehärtetem Glas. Mit einer einfachen Drehung kann man das System so betrachten, wie es von der linken oder rechten Seite des Schreibtisches aus gesehen werden sollte. Ausschließlich vertikal montierte GPUs: Warum sollten man seine Grafikkarte auf eine andere Weise sehen wollen? Ein PCIE 4.0 Riser-Kabel wird mitgeliefert. Eine schützende Riser-Kabelabdeckung fügt sich wunderbar in das Gehäuse ein und ermöglicht es, PCIE-Karten in halber Höhe hinter dem Thron der vertikalen Grafikkarte unterzubringen. Die Schutzabdeckung ist die erste ihrer Art, die speziell für das Y60 entwickelt wurde. Hotspots werden beseitigt, mit seitlichen Lüftungsöffnungen und Lüftern, die geschmackvoll im unteren Bereich des Y60 untergebracht sind. Die drei vorinstallierten Flow FE12-Lüfter mit flüssigkeitsdynamischen Lagern sorgen für einen flüsterleisen Betrieb.Art.-Nr.: 1820356 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Samsung",
+		"Produkt": "SAMSUNG 870 EVO 2 TB, SSD(SATA 6 Gb/s, 2,5, intern)",
+		"Preis": "119,90",
+		"Link": "https://www.alternate.de/SAMSUNG/870-EVO-2-TB-SSD/html/product/1706406",
+		"Bild": "https://www.alternate.de/p/o/6/0/SAMSUNG_870_EVO_2_TB__SSD@@1706406.jpg",
+		"Beschreibung": "Die Samsung 870 EVO SSD eignet sie sich für unterschiedliche Anwenderprofile und erfüllt die Anforderungen von Kreativen und Content-Produzenten über IT-Profis bis hin zu alltäglichen Nutzern gleichermaßen – ein Upgrade mit der Samsung SSD 870 EVO ist unkompliziert und schnell gemacht. Mit bis zu 560/530 MB/s für sequenzielles Lesen/Schreiben ist sie leistungsfähiger als ihre Vorgänger und setzt so die weltweit meistverkaufte SSD-Baureihe fort. Hinzu kommt: ihre umfangreiche Kompatibilität mit Chipsätzen, Mainboards, NAS-Systemen und Videoaufnahmegeräten macht sie zu einem Allrounder für die alltägliche Nutzung und anspruchsvolle Anwendungen.Art.-Nr.: 1706406 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Mushkin Source",
+		"Produkt": "Mushkin Source HC 16 TB, SSD(schwarz, SATA 6 Gb/s, 2,5",
+		"Preis": "1.879,00",
+		"Link": "https://www.alternate.de/Mushkin/Source-HC-16-TB-SSD/html/product/1768189",
+		"Bild": "https://www.alternate.de/p/o/9/8/Mushkin_Source_HC_16_TB__SSD@@1768189.jpg",
+		"Beschreibung": "Die Source HC schlägt das nächste Kapitel der Mushkin Source SSD-Serie auf. Entwickelt für PC-Enthusiasten und Power-User, überschreitet die Source HC die Grenzen der SATA III-Leistung und erreicht eine Kapazität von 16 TB in einem 2,5-Zoll-Formfaktor. Entwickelt mit dem gleichen Maß an Qualität und Haltbarkeit, wie man es von Mushkin gewohnt ist, liefert die Source HC außergewöhnliche Leistung und Kapazität zu einem günstigen Preis. Dank des Phison S12-Controllers hält die Source HC nichts zurück. Sie bietet verbesserte Ausdauer, Zuverlässigkeit und überlegene Leistung für High-End-Computing-Anwendungen wie Spiele, HD-Medienwiedergabe oder kreative Software.Art.-Nr.: 1768189 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Crucial",
+		"Produkt": "Crucial MX500 1 TB, SSD(SATA 6 Gb/s, 2,5",
+		"Preis": "58,90",
+		"Link": "https://www.alternate.de/Crucial/MX500-1-TB-SSD/html/product/1402337",
+		"Bild": "https://www.alternate.de/p/o/i/Crucial_MX500_1_TB__SSD@@imkmcx.jpg",
+		"Beschreibung": "Mit der MX500 SSD startet das System innerhalb von Sekunden. Man erhält nahezu sofortige Leistung und dauerhafte Zuverlässigkeit, gebündelt in einer SSD. Die MX500 1 TB erreicht Lesegeschwindigkeiten von 560 MB/s und Schreibgeschwindigkeiten von bis zu 510 MB/s. Ihre nützlichen Features machen die MX500 zu einem leistungsstarken, zuverlässigen und energiesparenden Speichermedium.Art.-Nr.: 1402337 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "WD Red",
+		"Produkt": "WD Red SA500 NAS 4 TB, SSD(SATA 6 Gb/s, 2,5",
+		"Preis": "431,00",
+		"Link": "https://www.alternate.de/WD/Red-SA500-NAS-4-TB-SSD/html/product/1596118",
+		"Bild": "https://www.alternate.de/p/o/i/WD_Red_SA500_NAS_4_TB__SSD@@immmi0_31.jpg",
+		"Beschreibung": "Die WD Red SA500 NAS 4 TB SSD ist speziell für NAS-Systeme konstruiert. Sie ist ausgiebig für den 24/7-Dauerbetrieb getestet. Dank dem SATA 6 GB/s Interface, ermöglicht die Red SA500 NAS SSD Transferraten von bis zu 560 MB/s beim Lesen sowie 530 MB/s beim Schreiben. Die WD Red SA500 NAS SSD ist auf besonders geringe Geräuschentwicklung und geringen Energieverbrauch ausgelegt.Art.-Nr.: 1596118 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Gehäuse",
+		"Produkt": "Intenso",
+		"Preis": "13,29",
+		"Link": "https://www.alternate.de/Intenso/TOP-SSD-256-GB/html/product/1054212",
+		"Bild": "https://www.alternate.de/p/600x600/i/Intenso_TOP_SSD_256_GB@@imimxb02.jpg",
+		"Beschreibung": "Die Intenso TOP SSD nutzt die schnelle SATA/600-Schnittstelle optimal aus. Die TOP SSD erreicht Datentransferraten von bis zu 550 MB/s. Durch den Verzicht auf bewegliche Bauteile bieten Solid State Drives nicht nur eine größere Robustheit als herkömmliche Festplatten, sie sparen auch Energie und ermöglichen erheblich schnellere Zugriffszeiten.Art.-Nr.: 1054212 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Seagate Iron Wolf",
+		"Produkt": "Seagate IronWolf 125 SSD 4 TB(schwarz, SATA 6 Gb/s, 2,5",
+		"Preis": "628,00",
+		"Link": "https://www.alternate.de/Seagate/IronWolf-125-SSD-4-TB/html/product/1672585",
+		"Bild": "https://www.alternate.de/p/o/i/Seagate_IronWolf_125_SSD_4_TB@@immmsb09.jpg",
+		"Beschreibung": "Die Seagate IronWolf SSD ist speziell für NAS-Systeme ausgelegt und besitzt 4 TB Speicherkapazität. Alle Laufwerke der Serie umfassen die AgileArray-Firmware zur Maximierung der Leistung des NAS-Systems für anspruchsvolle Umgebungen mit mehreren Benutzern und Dauerbetrieb. Sie können in einem reinen Flash-Array (AFA) oder einem Tiered-Caching-fähigen NAS eingesetzt werden.Art.-Nr.: 1672585 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Patriot",
+		"Produkt": "Patriot P210 512 GB, SSD(schwarz, SATA 6 Gb/s, 2,5",
+		"Preis": "22,29",
+		"Link": "https://www.alternate.de/Patriot/P210-512-GB-SSD/html/product/1652145",
+		"Bild": "https://www.alternate.de/p/o/i/Patriot_P210_512_GB__SSD@@imjmpz_1.jpg",
+		"Beschreibung": "Die P210 SSD-Serie von Patriot ist mit einem Controller der neuesten Generation ausgestattet, der für Lese- und Schreibgeschwindigkeiten von bis zu 520 MB/s und 430 MB/s sorgt. Zusammen mit blitzschnellen Zugriffen und TRIM-Support bietet die P210 hohe Performance, hohe Datensicherheit und einen geringen Stromverbrauch. Dieses kostengünstige Solid-State-Laufwerk eignet sich hervorragend, um ein bestehendes System aufzurüsten. Die P210 verbessert die Start-, Lade- und Übertragungszeiten gegenüber herkömmlichen Festplatten ungemein.Art.-Nr.: 1652145 "
+	},
+	{
+		"Komponente": "Festplatte",
+		"Hersteller": "Micron",
+		"Produkt": "Micron 5300 MAX 1,92 TB, SSD(schwarz, SATA 6 Gb/s, 2,5)",
+		"Preis": "499,00",
+		"Link": "https://www.alternate.de/Micron/5300-MAX-1-92-TB-SSD/html/product/1759464",
+		"Bild": "https://www.alternate.de/p/o/4/6/Micron_5300_MAX_1_92_TB__SSD@@1759464.jpg",
+		"Beschreibung": "Bei einem Komplettumstieg auf Flash-basierten Speicher fällt oft die Wahl auf SATA und Rechenzentren sollten dabei nicht auf Innovation verzichten müssen. Die SATA-Solid-State-Laufwerke (SSDs) der Micron 5300-Serie bieten aktuelle 3D-NAND-Technologie mit allem, was man von dem branchenweit umfangreichsten SATA-Portfolio von Micron erwarten kann. Als 96-Layer-3D-TLC-NAND-Flash-Laufwerk mit SATA-Schnittstelle bietet die Micron 5300 hohe Leistung, Konsistenz und Zuverlässigkeit auf einer bewährten Architektur. Die Micron 5300 SSD hat eine mittlere Ausfallzeit (MTTF) von 3 Millionen Gerätestunden – 50% mehr als die Norm. Hinzu kommen Microns solide Firmware-Funktionen für erweiterte Datensicherheit.Art.-Nr.: 1759464 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon Drakonia II Black, Gaming-Maus(schwarz)",
+		"Preis": "39,79",
+		"Link": "https://www.alternate.de/Sharkoon/Drakonia-II-Black-Gaming-Maus/html/product/1327035",
+		"Bild": "https://www.alternate.de/p/o/n/Sharkoon_Drakonia_II_Black__Gaming_Maus@@nmzs81.jpg",
+		"Beschreibung": "Der Drache ist zurückgekehrt: Mit der Gaming-Maus Drakonia II Black erhält der beliebte Bestseller von Sharkoon endlich einen Nachfolger. Für eine hohe Zielgenauigkeit ist die Drakonia II Black mit dem leistungsstarken, optischen Sensor PixArt 3360 ausgestattet, dessen dpi-Auflösung in sechs Stufen von 600 bis 15.000 dpi über zwei Wahltasten anpassbar ist. Dabei gibt die weiß beleuchtete dpi-Anzeige Auskunft, welche Stufe aktuell ausgewählt ist. Insgesamt zwölf programmierbare Tasten stehen für umfangreiche Befehle zur Verfügung. Sechs davon sind an der Seite angeordnet und lassen sich, wie auch das Scrollrad und das Drakonia-Wappen, im RGB-Spektrum mit 16,8 Millionen Farben beleuchten. Die texturierte Daumenablagen an den Seiten der Drakonia II Black sorgen für einen sicheren Griff und hohen Komfort und mit dem intern gelagerten Weight-Tuning-System erreicht man zusätzliche Präzision und Wendigkeit. Über die herunterladbare Gaming-Software lassen sich von der Empfindlichkeit über die Beleuchtung bis hin zu Makros auf vielfältige, strategische Optionen zugreifen. Mit der Drakonia II Black kann die entscheidende Schlacht beginnen.Art.-Nr.: 1327035 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Roccat",
+		"Produkt": "Roccat Kone XP, Gaming-Maus(weiß)",
+		"Preis": "79,90",
+		"Link": "https://www.alternate.de/Roccat/Kone-XP-Gaming-Maus/html/product/1821732",
+		"Bild": "https://www.alternate.de/p/o/2/3/Roccat_Kone_XP__Gaming_Maus@@1821732.jpg",
+		"Beschreibung": "Die Kone XP mit 3D-Beleuchtung ist die neueste Gaming-Maus von Roccat mit der hervorragenden Ergonomie des legendären, jetzt noch weiter verfeinerten Kone-Designs. Als geistiger Nachfolger der außerordentlich beliebten Kone AIMO Remastered wurde die Kone XP in jeder Hinsicht verbessert. Das durchscheinende Gehäuse der Kone XP bietet ein Lichtspektakel aus 22 LEDs und acht Lightguides, was eine noch nie dagewesene Tiefe und Immersion erzeugt. Sie verfügt über 15 Tasten, die mithilfe der Roccat Easy-Shift[+]-Technologie doppelt belegt werden können, was 29 Tastenfunktionen ermöglicht. Ideal für MMO- und Echtzeitstrategie-Spieler, die schnellen Zugriff auf verschiedenste Eingabebefehle benötigen, oder Gamer, die sich maximale Anpassungsfähigkeit wünschen. Das Krystal 4D-Mausrad der Kone XP lässt sich nach links und rechts kippen und schafft so zusätzlich zur Standardfunktionalität des vertikalen Klickens und Scrollens weitere Eingabemöglichkeiten – und das alles mit einem unverwechselbaren taktilen Bediengefühl. Aus durchscheinendem Material hergestellt, setzt das Krystal 4D-Mausrad die RGB-Beleuchtung zudem auf besondere Weise in Szene. Der Roccat Titan Optical Schalter ist schnell, robust und zuverlässig und bietet ein angenehm taktiles Klickgefühl. Keine Probleme beim Doppelklicken und keinerlei Eingewöhnungszeit. Weiterhin kommt bei der Kone XP der hochmoderne optische Owl-Eye-Sensor mit 19.000 dpi zum Einsatz, der mit hoher Reaktionsfähigkeit und Präzision brilliert. Das Roccat PhantomFlex-Kabel bietet eine fast kabellose Spielerfahrung ohne Reibungswiderstand oder Verheddern. Die Basis dafür sind die hitzehandelten Premium-Mausfüße aus reinem PTFE, deren grandiose Gleiteigenschaften von Anfang an begeistern.Art.-Nr.: 1821732 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Razer",
+		"Produkt": "Razer Basilisk V3, Gaming-Maus(schwarz)",
+		"Preis": "79,99",
+		"Link": "https://www.alternate.de/Razer/Basilisk-V3-Gaming-Maus/html/product/1775757",
+		"Bild": "https://www.alternate.de/p/o/7/5/Razer_Basilisk_V3__Gaming_Maus@@1775757.jpg",
+		"Beschreibung": "Mit der Razer Basilisk V3, der ergonomischen Gaming-Maus für individuelle Leistung, lässt sich ein eigener Spielstil kreieren, kontrollieren und durchsetzen. Alle Makros und sekundären Funktionen können den elf programmierbaren Tasten zugewiesen werden – einschließlich des hochgelobten Multifunktionsauslösers –, um wichtige Aktionen wie Push-to-Talk, Ping und mehr auszuführen. Mit dem HyperScroll-Tilt-Scrollrad, das sich frei dreht, bis es gestoppt wird, kann man sich schnell durch Inhalte bewegen. Im taktilen Modus hat man hingegen mehr Präzision und erhält ein befriedigendes Feedback, was ideal für das Durschalten von Waffen oder Fertigkeiten ist. Der charakteristische Formfaktor der Basilisk V3 liegt perfekt in der Hand, während die Tasten für einen schnellen und einfachen Zugriff optimal positioniert sind. Ohne unbeabsichtigte Fehlklicks ist Verlass darauf, dass die Razer Optical Gen 2 Schalter mit einer blitzschnellen Betätigungsgeschwindigkeit von 0,2 Millisekunden einer Lebensdauer von bis zu 70 Millionen Klicks eine knackige, reaktionsschnelle Ausführung bieten. Der Razer Focus+ Sensor mit bis zu 26.000 dpi und intelligenten Funktionen, wie der asymmetrischen Abschaltung, verfolgt dabei Bewegungen fehlerfrei und ohne Glättung, was eine klare Reaktion und eine pixelgenaue Abtastung ermöglicht. Darüber hinaus lässt sich jede der elf Beleuchtungszonen der Basilisk V3 in über 16,8 Millionen Farben und zahllosen Lichteffekten anpassen, während sie dynamisch auf über 150 Chroma-intergierte Spiele reagiert.Art.-Nr.: 1775757 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "SteelSeries",
+		"Produkt": "SteelSeries Aerox 3 Wireless Onyx 2022, Gaming-Maus(schwarz)",
+		"Preis": "69,99",
+		"Link": "https://www.alternate.de/SteelSeries/Aerox-3-Wireless-Onyx-2022-Gaming-Maus/html/product/1780744",
+		"Bild": "https://www.alternate.de/p/o/4/4/SteelSeries_Aerox_3_Wireless_Onyx_2022__Gaming_Maus@@1780744.jpg",
+		"Beschreibung": "Die superleichte SteelSerie Aerox 3 Wireless Onyx 2022 Gaming-Maus wiegt gerade einmal 68 g und ist perfekt für rasante, komfortable und mühelose Mausbewegungen. Sie bietet maximale Flexibilität dank bequemen Wechsel zwischen einer ultraschnellen 2,4-GHz-Wireless-Verbindung für höchste Ansprüche oder der praktischen Verbindung per Bluetooth 5.0 für schnelles Koppeln an PC, Mac, Laptops und mehr. Die innovative Quantum 2.0 Wireless-Technologie übermittelt dabei Daten rasend schnell und arbeitet dabei verlustfrei, zuverlässig und energieeffizienter als jemals zuvor. Ihre hochmodernen Golden Micro IP54-Schalter sind staub- und wasserfest und für 80 Millionen Klicks ohne Qualitätseinbußen ausgelegt. Sie sorgen auch unter den anspruchsvollsten Bedingungen für ein präzises Klickverhalten, verhindern versehentliche Doppelklicks und ermöglichen ultrapräzises Zielen. Ein mit PixArt entwickelter Gaming-Sensor besticht durch echtes 1-zu-1-Tracking für maximale Drahtlos-Leistung. Dieser optische Sensor mit 18.000 dpi, 400 IPS und 40 G liefert die Geschwindigkeit und Präzision, mit der Ihr Gameplay auf die nächste Stufe gehoben wird. Als erste Gaming-Maus mit Schutzklasse IP54 bietet die Aerox 3 Wireless Onyx 2022 Schutz vor Wasser, Staub, Schmutz, Fett, Haaren und mehr. Auch wenn ihr Design es nicht vermuten lässt: Die internen Schaltkreise der Maus sind bestens vor allen Umwelteinflüssen geschützt, auch wenn mal etwas danebengeht. Jedes interne und externe Bauteil der Aerox 3 Wireless Onyx 2022 wurde mit höchster Präzision auf Langlebigkeit und Ergonomie ausgelegt und ihre Gleitfüße aus reinem PTFE sorgen für die geschmeidigsten und präzisesten Mausbewegungen. Zudem bietet die Aerox 3 Wireless Onyx 2022 ganze 200 Stunden ununterbrochenes Gameplay bei konstant hoher Leistung und dank der Schnelladefunktion ermöglichen 15 Minuten Ladezeit über 40 Stunden Gameplay. Über die zahlreichen SteelSeries Engine Apps lässt sich die 3-Zonen-RGB-Beleuchtung einfach und intuitiv anpassen; Discord und weitere unterstützte GameSense-Apps bieten Chat-Benachrichtigungen, Informationen über Ereignisse im Spiel und vieles mehr.Art.-Nr.: 1780744 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Logitech ",
+		"Produkt": "Logitech MX Master 3S, Maus(graphit, 7 Tasten, Logi Bolt, Bluetooth, kompatibel mit PC/Mac/iPad/Android)",
+		"Preis": "97,90",
+		"Link": "https://www.alternate.de/Logitech/MX-Master-3S-Maus/html/product/1843035",
+		"Bild": "https://www.alternate.de/p/o/5/3/Logitech_MX_Master_3S__Maus@@1843035.jpg",
+		"Beschreibung": "Die kabellose Logitech MX Master 3S – eine legendäre Maus, neu überarbeitet für ultimative Haptik, Leistung und Flow. Ihre sieben leise klickenden Tasten sorgen für ein angenehmes taktiles Gefühl mit 90 % weniger Klickgeräusch. Ihre ergonomische Form liegt perfekt in der Hand und überzeugt mit ideal positionierten Vor/Zurück- und Gestentasten sowie einem Daumenrad. Das Scrollrad verfügt über SmartShift. Die MX Master 3S ist mit einem optischen 8K-Sensor ausgestattet und ermöglicht dadurch eine Reaktionsschnelligkeit der nächsten Generation auf jeder Oberfläche – sogar Glas. Mit Logitech Flow lassen sich zudem mehrere Computer gleichzeitig bedienen und dabei auch zwischen den Betriebssystemen Windows und macOS wechseln.Art.-Nr.: 1843035 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Thermaltake ",
+		"Produkt": "Thermaltake ARGENT M5 RGB, Gaming-Maus(schwarz)",
+		"Preis": "49,90",
+		"Link": "https://www.alternate.de/Thermaltake/ARGENT-M5-RGB-Gaming-Maus/html/product/1718559",
+		"Bild": "https://www.alternate.de/p/o/9/5/Thermaltake_ARGENT_M5_RGB__Gaming_Maus@@1718559.jpg",
+		"Beschreibung": "Die Thermaltake ARGENT M5 RGB Gaming-Maus ist beidhändig designed, um für alle Handgrößen und Griffstile zu passen, und mit einer matten Beschichtung für verbesserten Komfort und Haltbarkeit versehen. Sie verfügt über acht programmierbare Tasten und ein hochwertiges Aluminium-Mausrad. Der optische Pixart PMW-3389-Sensor mit einer Empfindlichkeitseinstellung zwischen 100 und 16.000 dpi bietet höschte Präzision und die Omrom-Schalter mit 50 Millionen Klicks sorgen zudem für eine lange Lebensdauer der Maus. Dank der 3-Zonen-RGB-Beleuchtung inkl. 360-Grad-RGB-Unterlicht lässt sich der Style der ARGENT M5 RGB den individuellen Bedürfnissen entsprechend anpassen. Mittels iTAKE Engine Software lässt sich die Beleuchtung individualisieren, Makros erstellen, Spieleprofile anlegen und mit allen TT RGB PLUS Geräten synchronisieren. Die iTAKE Engine ist zudem mit Razer Chroma kompatibel: Wird zusätzlich zur iTAKE Engine Razyer Synapse 3 installiert, lässt sich die ARGENT M5 RGB auch mit Produkten aus der Razer Chroma Serie synchronisieren.Art.-Nr.: 1718559 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Keychron",
+		"Produkt": "Keychron K10, Gaming-Tastatur(schwarz/grau, DE-Layout, Gateron G Pro Red, Hot-Swap, Aluminiumrahmen, RGB)",
+		"Preis": "149,99",
+		"Link": "https://www.alternate.de/Keychron/K10-Gaming-Tastatur/html/product/1887678",
+		"Bild": "https://www.alternate.de/p/o/8/7/Keychron_K10__Gaming_Tastatur@@1887678.jpg",
+		"Beschreibung": "Das ergonomische Full-Size-Format der Keychron K10 Gaming-Tastatur maximiert die Produktivität, dank voller Größe mit Nummernblock. Strapazierfähige mechanische Gateron G Pro Schalter bieten eine Lebensdauer von 50 Millionen Anschlägen für ein unübertroffenes Ansprechverhalten. Mit dieser Hot-Swap-fähigen Version muss man nie eine komplett neue Tastatur kaufen, um eine andere Schalteroption auszuprobieren – jeder Schalter lässt sich in 5 Sekunden ändern, ohne zu löten, einfach einstecken und fertig. Die K10 verfügt über eine bezaubernde RGB-Hintergrundbeleuchtung mit modernen Tastenkappen-Legenden, die das Tippen in dunklen Umgebungen erleichtern, und der geneigte untere Rahmen sorgt für bequemen Schreib- und Spielkomfort. Die K10 verbindet sich mit bis zu drei Geräten über Bluetooth und wechselt bequem zwischen ihnen hin und her. Mit dem hochzuverlässigen und breit kompatiblen Broadcom-Bluetooth-5.1-Chipsatz eignet sie sich am besten für den Einsatz zu Hause, im Büro und bei leichten Spielen, während sie sich mit dem Smartphone, Laptop und iPad verbindet. Auch ein kabelgebundener Modus mit USB-Typ-C-Anschluss ist möglich. Die K10 ist sowohl mit Windows als auch macOS kompatibel und kommt mit einem vorinstallierten Mac-Multimedia-Tasten-Layout sowie zusätzlichen Tastenkappen für Windows.Art.-Nr.: 1887678 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Sharkoon",
+		"Produkt": "Sharkoon SKILLER SGK3, Gaming-Tastatur(schwarz, DE-Layout, Kailh Red)",
+		"Preis": "69,90",
+		"Link": "https://www.alternate.de/Sharkoon/SKILLER-SGK3-Gaming-Tastatur/html/product/1302284",
+		"Bild": "https://www.alternate.de/p/o/4/8/Sharkoon_SKILLER_SGK3__Gaming_Tastatur@@1302284.jpg",
+		"Beschreibung": "Die SKILLER SGK3 von Sharkoon ist eine mechanische Gaming-Tastatur mit 3-Block-Layout, die das Unmögliche wagt und E-Sport-taugliche Features mit einem unschlagbaren Preis-Leistungs-Verhältnis verbindet. So präsentiert sie sich bereits optisch durch ihr kompaktes Design mit verstärkter Metalloberfläche und freistehenden Tasten sowie der satten RGB-Beleuchtung – wie gemacht für Events und den heimischen Gaming-Desk. Doch auch funktionell ist sie mit N-Key-Rollover, einer Polling-Rate von 1.000 Hz, zahlreichen voreingestellten Funktionstasten mit Multimedia-Aktionen und einer intuitiven Software ganz auf die Bedürfnisse von Gamern und professionellen Spielern ausgelegt. Dank ihrer schnell auslösenden Kailh-Schalter ist man stets jeder Herausforderung gewachsen und mit dem mitgelieferten Tastenkappen-Set können die meistgenutzten Tasten für eine noch bessere Handhabung einfach hervorgehoben werden. Durch die Doubleshot-Technologie und das verwendete, hochwertige PBT sind die Tastenkappen besonders langlebig und robust – ohne die Beleuchtung zu behindern. Für Ordnung und ein gutes Ressourcenmanagement lassen sich die meisten Funktionen der Tastatur sofort nach dem Anschließen nutzen. Wer jedoch alles aus seiner SKILLER SGK3 herausholen möchte, kann für eine freie Tastenbelegung, die Möglichkeit zur Makroaufnahme oder zusätzliche Beleuchtungsverwaltung die herunterladbare Gaming-Software nutzen.Art.-Nr.: 1302284 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "SteelSeries",
+		"Produkt": "SteelSeries APEX Pro, Gaming-Tastatur(schwarz, DE-Layout, SteelSeries OmniPoint)",
+		"Preis": "189,99",
+		"Link": "https://www.alternate.de/SteelSeries/APEX-Pro-Gaming-Tastatur/html/product/1549607",
+		"Bild": "https://www.alternate.de/p/o/n/SteelSeries_APEX_Pro__Gaming_Tastatur@@ntzt0j.jpg",
+		"Beschreibung": "Die Gaming-Tastatur SteelSeries APEX Pro vereint atemberaubende Beleuchtungseffekte, relevante In-Game-Benachrichtigungen und mechnaische SteelSeries OmniPoint Switches in einem robusten Aluminiumrahmen mit Series-5000-Legierung. Das integrierte OLED Smart Display liefert Informationen direkt aus Spielen und Apps. Die RGB-Beleuchtung erfolgt für jede Taste einzeln und lässt sich mit weiterem SteelSeries-Gaming-Gear synchronisieren. Die mechanischen OmniPoint Switches bieten einen einstellbaren Auslöseweg von 0,4 bis 3,6 Millimetern und lassen sich so jeder Situation und den individuellen Bedürfnissen entsprechend perfekt anpassen. N-Key-Rollover und 100% Anti-Ghosting sorgen für blitzschnelle Reaktionen im Spiel und die abnehmbare, magnetische Handballenauflage liefert bei langen Gaming-Sessions den nötigen Komfort. Die APEX Pro verfügt des Weiteren nicht nur über drei im Rahmen integrierte Kabelkanäle für maximale Ordnung auf dem Schreibtisch, sie besitzt zudem einen USB-Passthrough-Port zum Anschließen eines Flash-Laufwerks, der Maus, des Headsets oder des Smartphones. Alle Einstellungen lassen sich auf dem Onboard-Speicher der APEX Pro mit fünf Profilen speichern und mit der Multimedia-Steuerung können Lautstärke, Helligkeit sowie die Sound-Steuerung on-the-fly angepasst werden.Art.-Nr.: 1549607 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Logitech ",
+		"Produkt": "Logitech G915 LIGHTSPEED, Gaming-Tastatur(schwarz, DE-Layout, GL Tactile)",
+		"Preis": "223,90",
+		"Link": "https://www.alternate.de/Logitech-Gaming/G915-LIGHTSPEED-Gaming-Tastatur/html/product/1573785",
+		"Bild": "https://www.alternate.de/p/o/5/8/Logitech_G915_LIGHTSPEED__Gaming_Tastatur@@1573785.jpg",
+		"Beschreibung": "Die Gaming-Tastatur Logitech G915 bietet kabelloses LIGHTSPEED in professioneller Qualität für superschnelle Leistung mit 1 Millisekunde. Sie ist ebenso voll einsatzfähig, wenn sie über USB angeschlossen ist, sodass man gleichzeitig laden und spielen kann. Zudem kann jederzeit schnell und einfach zwischen kabellosem LIGHTSPEED über USB-Empfänger und Bluetooth gewechselt werden. Die hochleistungsfähigen, flachen, mechanischen GL-Switches sind nur halb so hoch sind wie herkömmliche Switches, bieten aber dieselbe Geschwindigkeit, Präzision und Leistung. Die schlanke und ausgereifte G915 liefert Spitzenleistung mit allen Funktionen, die für eine totale Kontrolle nötig sind - beispielsweise programmierbare G-Tasten und integrierte Profile. Die intelligente LIGHTSYNC RGB Technologie sorgt dank anpassbarer Beleuchtung für jede Taste in ca. 16,8 Millionen Farben für den individuellen Style, sodass die G915 in jede Gaming-Umgebung passt.Art.-Nr.: 1573785 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "Roccat ",
+		"Produkt": "Roccat Vulcan II Max, Gaming-Tastatur(weiß, DE-Layout, Roccat Titan II Optical Red)",
+		"Preis": "229,99",
+		"Link": "https://www.alternate.de/Roccat/Vulcan-II-Max-Gaming-Tastatur/html/product/1875211",
+		"Bild": "https://www.alternate.de/p/o/1/1/Roccat_Vulcan_II_Max__Gaming_Tastatur@@1875211.jpg",
+		"Beschreibung": "Die optisch-mechanische Roccat Vulcan II Max Gaming-Tastatur kombiniert Strapazierfähigkeit, Performance und Funktionalität in einem spektakulären, RGB-beleuchteten Design. Die exklusiven Roccat Titan II Optical Switches erzeugen ein reibungsloses mechanisches Tastendruckgefühl und bieten eine extrem schnelle Tastenauslösung sowie unglaubliche Strapazierfähigkeit dank einer Lebensdauer von 100 Millionen Klicks, um bei jedem Spiel Gaming auf Wettkampfniveau zu ermöglichen. Sie sind zudem kompatibel mit vielen Drittanbieter-Tastenkappen mit kreuzförmigem Befestigungsaufsatz, damit man den Look der Vulcan II Max ganz individuell anpassen kann. Im Spielmodus hat du Zugriff auf die Easy-Shift [+] Tasten-Duplikationstechnologie, die jeder Taste eine Zweitfunktion zuordnet und sich programmieren lässt für nahezu unendliche Kombinationsmöglichkeiten. Man kann jeden Tastendruck mit absoluter Präzision ausführen durch die 24 multifunktionalen Smart-Tasten mit jeweils eigener LED, die anzeigt, wenn eine Zweitfunktion aktiv ist. Auch das Mitführen unterwegs ist kein Problem, da bis zu vier benutzerdefinierte Profile für Beleuchtung, Tastenzuweisungen und mehr direkt auf der Tastatur gespeichert werden können. Die Vulcan II Max ist darüber hinaus ausgestattet mit den beliebtesten Eigenschaften wie einer eloxierten Aluminium-Abdeckplatte, die für dauerhafte strukturelle Integrität sorgt, sowie dedizierten Multimedia-Bedienelementen, damit man das Spiel niemals unterbrechen muss. Die weiche, durchsichtige Handballenauflage bildet das Fundament für Roccats AIMO-Beleuchtungstechnologie, die ein dynamisches RGB-Lichtspektakel erzeugt und sich auch mit anderen kompatiblen AIMO-fähigen Produkten für ein immersives Beleuchtungserlebnis synchronisieren lässt.Art.-Nr.: 1875211 "
+	},
+	{
+		"Komponente": "Zubehör",
+		"Hersteller": "CHERRY",
+		"Produkt": "CHERRY STREAM KEYBOARD, Tastatur(schwarz, DE-Layout, SX-Scherentechnologie)",
+		"Preis": "21,49",
+		"Link": "https://www.alternate.de/CHERRY/STREAM-KEYBOARD-Tastatur/html/product/1585058",
+		"Bild": "https://www.alternate.de/p/o/n/CHERRY_STREAM_KEYBOARD__Tastatur@@ntec42.jpg",
+		"Beschreibung": "Das CHERRY STREAM KEYBOARD setzt insbesondere im Büroumfeld Maßstäbe und hat das Potential zur absoluten Lieblingstastatur. Die Mixtur aus konventionellem Design, einer Prise Eleganz und schlichtem Purismus findet bei besonders vielen Geschmäckern anklang. Dank integrierter Metallplatte, den beiden Aufstellfüßen und acht Gummipads auf der Unterseite bietet das STREAM KEYBOARD trotz seiner schlanken Bauweise ideale Standfestigigkeit und Stabilität. Das STREAM KEYBOARD überzeugt darüber hinaus mit einem flüsterleisen Tastenanschlag und unschlagbarem Tippgefühl der hauseigenen SX-Scherentechnologie.Art.-Nr.: 1585058 "
+	}
+]

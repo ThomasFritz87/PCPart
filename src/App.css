@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+
+body {
+    background-color: rgb(23, 15, 92);
+    background-image: url("./images/electronics.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-blend-mode:soft-light;
+    background-attachment: fixed
+}
