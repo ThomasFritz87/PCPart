@@ -11,12 +11,12 @@ function App() {
     <>
       <Router>
             <Routes>
-              <Route path="/" element={<Main category="sale"/>}/>
+              <Route path="/" element={<Main category="Home"/>}/>
 
-              <Route path="/home" element={<Main category="home"/>}/>
-              <Route path="/office" element={<Main category="office"/>}/>
-              <Route path="/gaming" element={<Main category="gaming"/>}/>
-              <Route path="/highend" element={<Main category="highend"/>}/>
+              <Route path="/home" element={<Main category="Home"/>}/>
+              <Route path="/office" element={<Main category="Office"/>}/>
+              <Route path="/gaming" element={<Main category="Gaming"/>}/>
+              <Route path="/highend" element={<Main category="Highend"/>}/>
 
               <Route path="/processor" element={<Main category="Prozessor"/>}/>
               <Route path="/graphics" element={<Main category="Grafikkarte"/>}/>
@@ -25,6 +25,8 @@ function App() {
               <Route path="/ssd" element={<Main category="Festplatte"/>}/>
               <Route path="/cooling" element={<Main category="Kühlung"/>}/>
               <Route path="/case" element={<Main category="Gehäuse"/>}/>
+              <Route path="/power" element={<Main category="Netzteil"/>}/>
+              <Route path="/monitor" element={<Main category="Monitor"/>}/>
               <Route path="/accessory" element={<Main category="Zubehör"/>}/>
             </Routes>
       </Router>

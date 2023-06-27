@@ -9,11 +9,10 @@ function Navbar(props) {
       <h1>PC Parts</h1>
       
       <div className="topbar">
-        {(props.category == "home") ? <Link className="select" to="/home">Home PC</Link> : <Link className="link" to="/home">Home PC</Link>}
-        {(props.category == "office") ? <Link className="select" to="/office">Office PC</Link> : <Link className="link" to="/office">Office PC</Link>}
-        {(props.category == "gaming") ? <Link className="select" to="/gaming">Gaming PC</Link> : <Link className="link" to="/gaming">Gaming PC</Link>}
-        {(props.category == "highend") ? <Link className="select" to="/highend">Highend PC</Link> : <Link className="link" to="/highend">Highend PC</Link>}
-        {/* {(props.category == "sale") ? <Link className="select" to="/">Sonder Angebot</Link> : <Link className="link" to="/">Sonder Angebot</Link>} */}
+        {(props.category == "Home") ? <Link className="select" to="/home">Home PC</Link> : <Link className="link" to="/home">Home PC</Link>}
+        {(props.category == "Office") ? <Link className="select" to="/office">Office PC</Link> : <Link className="link" to="/office">Office PC</Link>}
+        {(props.category == "Gaming") ? <Link className="select" to="/gaming">Gaming PC</Link> : <Link className="link" to="/gaming">Gaming PC</Link>}
+        {(props.category == "Highend") ? <Link className="select" to="/highend">Highend PC</Link> : <Link className="link" to="/highend">Highend PC</Link>}
       </div>
 
       <div className="sidebar">
@@ -24,6 +23,8 @@ function Navbar(props) {
         {(props.category == "Festplatte") ? <Link className="select" to="/ssd">Festplatte</Link> : <Link className="link" to="/ssd">Festplatte</Link>}
         {(props.category == "Kühlung") ? <Link className="select" to="/cooling">Kühlung</Link> : <Link className="link" to="/cooling">Kühlung</Link>}
         {(props.category == "Gehäuse") ? <Link className="select" to="/case">Gehäuse</Link> : <Link className="link" to="/case">Gehäuse</Link>}
+        {(props.category == "Netzteil") ? <Link className="select" to="/power">Netzteil</Link> : <Link className="link" to="/power">Netzteil</Link>}
+        {(props.category == "Monitor") ? <Link className="select" to="/monitor">Monitor</Link> : <Link className="link" to="/monitor">Monitor</Link>}
         {(props.category == "Zubehör") ? <Link className="select" to="/accessory">Zubehör</Link> : <Link className="link" to="/accessory">Zubehör</Link>}
       </div>
     </nav>
